@@ -12,7 +12,7 @@
   "statusBy": "CL"
  },
  "B0G866Q75B": {
-  "ship": true,
+  "ship": false,
   "status": "",
   "by": "C",
   "ts": "2026-11-09 15:35",
@@ -26,6 +26,8 @@
   "eta": "",
   "comment": "",
   "reqAt": "2026-11-09 15:33",
-  "reqBy": "CL"
+  "reqBy": "CL",
+  "statusAt": "2026-11-09 15:35",
+  "statusBy": "C"
  }
 }
