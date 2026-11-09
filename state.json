@@ -12,17 +12,29 @@
   "statusBy": "CL"
  },
  "B0G866Q75B": {
-  "ship": true,
-  "status": "production",
+  "ship": false,
+  "status": "",
   "by": "C",
-  "ts": "2026-11-09 15:34",
-  "reqAt": "2026-11-09 15:33",
-  "reqBy": "CL",
-  "statusAt": "2026-11-09 15:34",
-  "statusBy": "CL",
-  "why": "price",
+  "ts": "2026-11-09 15:35",
+  "why": "",
   "price": 28.9,
   "priceAt": "2026-11-09 15:34",
-  "priceBy": "C"
+  "priceBy": "C",
+  "hist": [
+   {
+    "reqAt": "2026-11-09 15:33",
+    "reqBy": "CL",
+    "doneAt": "2026-11-09 15:35",
+    "doneBy": "C",
+    "why": "price",
+    "mk": "",
+    "sp": "",
+    "eta": ""
+   }
+  ],
+  "mkNote": "",
+  "spNote": "",
+  "eta": "",
+  "comment": ""
  }
 }
