@@ -14,15 +14,15 @@
  "B0G866Q75B": {
   "ship": true,
   "status": "production",
-  "by": "CL",
+  "by": "C",
   "ts": "2026-11-09 15:34",
   "reqAt": "2026-11-09 15:33",
   "reqBy": "CL",
   "statusAt": "2026-11-09 15:34",
   "statusBy": "CL",
   "why": "price",
-  "price": 0,
+  "price": 28.9,
   "priceAt": "2026-11-09 15:34",
-  "priceBy": "CL"
+  "priceBy": "C"
  }
 }
