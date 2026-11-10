@@ -1181,5 +1181,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0GN4TJHQK": {
+  "pc": true,
+  "oldPrice": 14.11,
+  "newPrice": 14.11,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:10",
+  "pcAt": "2026-11-10 14:10",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
