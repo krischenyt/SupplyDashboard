@@ -1085,13 +1085,21 @@
  "B0GSCYZDPC": {
   "pc": true,
   "oldPrice": 16.14,
-  "newPrice": 16.14,
+  "newPrice": 14.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:08",
   "pcAt": "2026-11-10 14:08",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 16.14,
+    "to": 14.99,
+    "at": "2026-11-10 14:08",
+    "by": "Zimo"
+   }
+  ]
  }
 }
