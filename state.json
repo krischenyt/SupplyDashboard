@@ -745,13 +745,21 @@
  "B0DK67ZTSP": {
   "pc": true,
   "oldPrice": 13.04,
-  "newPrice": 13.04,
+  "newPrice": 9.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 13:55",
   "pcAt": "2026-11-10 13:55",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 13.04,
+    "to": 9.99,
+    "at": "2026-11-10 13:55",
+    "by": "Zimo"
+   }
+  ]
  }
 }
