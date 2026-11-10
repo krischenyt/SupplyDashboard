@@ -537,9 +537,9 @@
   ]
  },
  "B0GDS357K4": {
-  "pc": false,
+  "pc": true,
   "oldPrice": 10.5,
-  "newPrice": 0,
+  "newPrice": 8.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:35",
@@ -547,7 +547,14 @@
   "pcBy": "Zimo",
   "doneAt": "",
   "doneBy": "",
-  "priceHistory": []
+  "priceHistory": [
+   {
+    "from": 10.5,
+    "to": 8.99,
+    "at": "2026-11-10 14:35",
+    "by": "Zimo"
+   }
+  ]
  },
  "B0FWHZSWHP": {
   "pc": true,
