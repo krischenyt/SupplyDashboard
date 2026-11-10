@@ -2842,5 +2842,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0G87SB8FT": {
+  "pc": true,
+  "oldPrice": 20.14,
+  "newPrice": 20.14,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:39",
+  "pcAt": "2026-11-10 14:39",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
