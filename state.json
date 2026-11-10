@@ -2195,5 +2195,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0GVVPMRS2": {
+  "pc": true,
+  "oldPrice": 24.19,
+  "newPrice": 24.19,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:29",
+  "pcAt": "2026-11-10 14:29",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
