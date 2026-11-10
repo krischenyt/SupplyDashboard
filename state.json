@@ -78,11 +78,11 @@
   "pc": true,
   "oldPrice": 22.86,
   "newPrice": 16.99,
-  "done": true,
+  "done": false,
   "pcAt": "2026-11-10 10:54",
   "pcBy": "Zimo",
-  "doneAt": "2026-11-10 14:25",
-  "doneBy": "Rico",
+  "doneAt": "",
+  "doneBy": "",
   "priceHistory": [
    {
     "from": 22.86,
@@ -96,9 +96,9 @@
   "comment": "DEAL后降价13.99\n预计30-50 目前promo9.9 100/day",
   "mktAt": "2026-11-10 14:25",
   "mktBy": "Rico",
-  "supStatus": "已發貨",
-  "supStatusAt": "2026-11-10 14:25",
-  "supStatusBy": "Rico"
+  "supStatus": "",
+  "supStatusAt": "",
+  "supStatusBy": ""
  },
  "B0GN5MSNVT": {
   "ship": true,
