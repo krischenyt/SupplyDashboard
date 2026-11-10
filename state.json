@@ -44,5 +44,15 @@
   "priceAt": "2026-11-09 16:40",
   "priceBy": "?",
   "mkNote": "DEAL 9.9卖到100+"
+ },
+ "B0GN5MSNVT": {
+  "ship": true,
+  "status": "",
+  "by": "?",
+  "ts": "2026-11-09 16:41",
+  "reqAt": "2026-11-09 16:41",
+  "reqBy": "?",
+  "statusAt": "2026-11-09 16:41",
+  "statusBy": "?"
  }
 }
