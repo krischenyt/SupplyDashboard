@@ -705,13 +705,21 @@
  "B0G2FM8NBG": {
   "pc": true,
   "oldPrice": 16.68,
-  "newPrice": 16.68,
+  "newPrice": 13.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 13:52",
   "pcAt": "2026-11-10 13:52",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 16.68,
+    "to": 13.99,
+    "at": "2026-11-10 13:52",
+    "by": "Zimo"
+   }
+  ]
  }
 }
