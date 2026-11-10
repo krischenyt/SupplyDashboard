@@ -1261,5 +1261,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0GFSH65GG": {
+  "pc": true,
+  "oldPrice": 14.83,
+  "newPrice": 14.83,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:11",
+  "pcAt": "2026-11-10 14:11",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
