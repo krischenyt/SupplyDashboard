@@ -3166,13 +3166,21 @@
  "B07L45XQBR": {
   "pc": true,
   "oldPrice": 33.55,
-  "newPrice": 33.55,
+  "newPrice": 34.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:43",
   "pcAt": "2026-11-10 14:43",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 33.55,
+    "to": 34.99,
+    "at": "2026-11-10 14:43",
+    "by": "Zimo"
+   }
+  ]
  }
 }
