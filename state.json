@@ -1365,13 +1365,21 @@
  "B0CFP9DF3C": {
   "pc": true,
   "oldPrice": 21.15,
-  "newPrice": 21.15,
+  "newPrice": 19.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:13",
   "pcAt": "2026-11-10 14:13",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 21.15,
+    "to": 19.99,
+    "at": "2026-11-10 14:13",
+    "by": "Zimo"
+   }
+  ]
  }
 }
