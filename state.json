@@ -18,9 +18,17 @@
   "pcBy": "CL",
   "doneAt": "",
   "doneBy": "",
-  "newPrice": 21.72,
+  "newPrice": 9.99,
   "pcDecAt": "2026-11-10 10:14",
-  "pcDecBy": "CL"
+  "pcDecBy": "CL",
+  "priceHistory": [
+   {
+    "from": 21.72,
+    "to": 9.99,
+    "at": "2026-11-10 10:46",
+    "by": "CL"
+   }
+  ]
  },
  "B0G866Q75B": {
   "ship": false,
