@@ -2886,13 +2886,21 @@
  "B0GT1YJ8RD": {
   "pc": true,
   "oldPrice": 15.88,
-  "newPrice": 15.88,
+  "newPrice": 13.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:39",
   "pcAt": "2026-11-10 14:39",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 15.88,
+    "to": 13.99,
+    "at": "2026-11-10 14:39",
+    "by": "Zimo"
+   }
+  ]
  }
 }
