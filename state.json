@@ -461,5 +461,25 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0CVTRSWQ1": {
+  "pc": true,
+  "oldPrice": 24.01,
+  "newPrice": 21.99,
+  "priceHistory": [
+   {
+    "from": 24.01,
+    "to": 21.99,
+    "at": "2026-11-10 13:37",
+    "by": "Zimo"
+   }
+  ],
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 13:37",
+  "pcAt": "2026-11-10 13:37",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
