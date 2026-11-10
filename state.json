@@ -1425,13 +1425,21 @@
  "B0DX3W24CJ": {
   "pc": true,
   "oldPrice": 17.93,
-  "newPrice": 17.93,
+  "newPrice": 13.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:17",
   "pcAt": "2026-11-10 14:17",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 17.93,
+    "to": 13.99,
+    "at": "2026-11-10 14:17",
+    "by": "Zimo"
+   }
+  ]
  }
 }
