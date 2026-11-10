@@ -190,8 +190,14 @@
   "mktBy": "Zimo",
   "pc": true,
   "oldPrice": 19.38,
-  "newPrice": 19.37,
+  "newPrice": 19.99,
   "priceHistory": [
+   {
+    "from": 19.37,
+    "to": 19.99,
+    "at": "2026-11-10 13:25",
+    "by": "CL"
+   },
    {
     "from": 19.38,
     "to": 19.37,
