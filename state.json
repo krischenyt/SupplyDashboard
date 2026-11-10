@@ -3262,5 +3262,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0CWNDCY6V": {
+  "pc": true,
+  "oldPrice": 16.95,
+  "newPrice": 16.95,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:45",
+  "pcAt": "2026-11-10 14:45",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
