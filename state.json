@@ -1305,13 +1305,21 @@
  "B0DX44D7FF": {
   "pc": true,
   "oldPrice": 24.19,
-  "newPrice": 24.19,
+  "newPrice": 19.99,
   "done": false,
   "by": "Zimo",
-  "ts": "2026-11-10 14:11",
-  "pcAt": "2026-11-10 14:11",
+  "ts": "2026-11-10 14:12",
+  "pcAt": "2026-11-10 14:12",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 24.19,
+    "to": 19.99,
+    "at": "2026-11-10 14:12",
+    "by": "Zimo"
+   }
+  ]
  }
 }
