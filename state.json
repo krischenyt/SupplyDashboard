@@ -61,12 +61,20 @@
   "mkNote": "DEAL 9.9卖到100+",
   "pc": true,
   "oldPrice": 22.86,
-  "newPrice": 22.86,
+  "newPrice": 16.99,
   "done": false,
   "pcAt": "2026-11-10 10:54",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 22.86,
+    "to": 16.99,
+    "at": "2026-11-10 10:54",
+    "by": "Zimo"
+   }
+  ]
  },
  "B0GN5MSNVT": {
   "ship": true,
