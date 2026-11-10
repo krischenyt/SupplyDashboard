@@ -293,13 +293,21 @@
  "B0GYBJ2BYC": {
   "pc": true,
   "oldPrice": 18.95,
-  "newPrice": 18.95,
+  "newPrice": 21.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 13:25",
   "pcAt": "2026-11-10 13:25",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 18.95,
+    "to": 21.99,
+    "at": "2026-11-10 13:25",
+    "by": "Zimo"
+   }
+  ]
  }
 }
