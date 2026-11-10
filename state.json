@@ -3202,5 +3202,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0F1C8CM23": {
+  "pc": true,
+  "oldPrice": 24.82,
+  "newPrice": 24.82,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:44",
+  "pcAt": "2026-11-10 14:44",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
