@@ -1121,5 +1121,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0GS6TYR64": {
+  "pc": true,
+  "oldPrice": 19.01,
+  "newPrice": 19.01,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:09",
+  "pcAt": "2026-11-10 14:09",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
