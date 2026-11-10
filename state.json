@@ -103,8 +103,8 @@
  "B0GN5MSNVT": {
   "ship": true,
   "status": "",
-  "by": "Zimo",
-  "ts": "2026-11-10 10:56",
+  "by": "Rico",
+  "ts": "2026-11-10 14:24",
   "reqAt": "2026-11-09 16:41",
   "reqBy": "?",
   "statusAt": "2026-11-09 16:41",
@@ -125,16 +125,19 @@
     "by": "Zimo"
    }
   ],
-  "done": false,
+  "done": true,
   "pcAt": "2026-11-10 10:56",
   "pcBy": "Zimo",
-  "doneAt": "",
-  "doneBy": "",
+  "doneAt": "2026-11-10 14:24",
+  "doneBy": "Rico",
   "mkt": "降价promo 40/day",
   "mktComment": "降价promo 40/day",
   "comment": "降价promo 40/day",
   "mktAt": "2026-11-10 10:56",
-  "mktBy": "Zimo"
+  "mktBy": "Zimo",
+  "supStatus": "已發貨",
+  "supStatusAt": "2026-11-10 14:24",
+  "supStatusBy": "Rico"
  },
  "B0G2MWSJTY": {
   "ship": true,
