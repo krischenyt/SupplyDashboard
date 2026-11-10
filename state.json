@@ -2255,5 +2255,17 @@
   "pcBy": "Zimo",
   "doneAt": "",
   "doneBy": ""
+ },
+ "B0F11Z2BLQ": {
+  "pc": true,
+  "oldPrice": 18.98,
+  "newPrice": 18.98,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:30",
+  "pcAt": "2026-11-10 14:30",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
