@@ -93,7 +93,7 @@
   "price": 9.99,
   "priceAt": "2026-11-09 16:41",
   "priceBy": "?",
-  "why": "price",
+  "why": "降价promo 40/day",
   "mkNote": "直降9.9 40/day",
   "pc": true,
   "oldPrice": 18.16,
@@ -110,7 +110,12 @@
   "pcAt": "2026-11-10 10:56",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "mkt": "降价promo 40/day",
+  "mktComment": "降价promo 40/day",
+  "comment": "降价promo 40/day",
+  "mktAt": "2026-11-10 10:56",
+  "mktBy": "Zimo"
  },
  "B0G2MWSJTY": {
   "ship": true,
