@@ -221,7 +221,7 @@
   "reqBy": "Paris Z",
   "statusAt": "2026-11-10 09:22",
   "statusBy": "Paris Z",
-  "why": "other",
+  "why": "TT视频，从100+/\nday涨到200+/day",
   "pc": false,
   "oldPrice": 34.84,
   "newPrice": 0,
@@ -233,7 +233,12 @@
   "doneBy": "",
   "supStatus": "",
   "supStatusAt": "",
-  "supStatusBy": ""
+  "supStatusBy": "",
+  "mkt": "TT视频，从100+/\nday涨到200+/day",
+  "mktComment": "TT视频，从100+/\nday涨到200+/day",
+  "comment": "TT视频，从100+/\nday涨到200+/day",
+  "mktAt": "2026-11-10 14:25",
+  "mktBy": "Rico"
  },
  "B0H3QR828N": {
   "ship": true,
