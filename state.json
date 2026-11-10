@@ -13,11 +13,11 @@
   "pc": true,
   "oldPrice": 21.72,
   "pcDec": "",
-  "done": true,
+  "done": false,
   "pcAt": "2026-11-10 10:49",
   "pcBy": "CL",
-  "doneAt": "2026-11-10 10:50",
-  "doneBy": "CL",
+  "doneAt": "",
+  "doneBy": "",
   "newPrice": 9.99,
   "pcDecAt": "2026-11-10 10:14",
   "pcDecBy": "CL",
@@ -29,9 +29,9 @@
     "by": "CL"
    }
   ],
-  "supStatus": "已發貨",
-  "supStatusAt": "2026-11-10 10:50",
-  "supStatusBy": "CL"
+  "supStatus": "",
+  "supStatusAt": "",
+  "supStatusBy": ""
  },
  "B0G866Q75B": {
   "ship": false,
