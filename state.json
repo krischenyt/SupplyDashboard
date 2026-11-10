@@ -1203,17 +1203,24 @@
   ]
  },
  "B0G8748JJH": {
-  "pc": false,
+  "pc": true,
   "oldPrice": 19.8,
-  "newPrice": 0,
+  "newPrice": 16.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:19",
-  "pcAt": "2026-11-10 14:10",
+  "pcAt": "2026-11-10 14:19",
   "pcBy": "Zimo",
   "doneAt": "",
   "doneBy": "",
-  "priceHistory": []
+  "priceHistory": [
+   {
+    "from": 19.8,
+    "to": 16.99,
+    "at": "2026-11-10 14:19",
+    "by": "Zimo"
+   }
+  ]
  },
  "B0GDS5HSKX": {
   "pc": true,
