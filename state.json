@@ -1505,13 +1505,21 @@
  "B0GS71C82J": {
   "pc": true,
   "oldPrice": 15.37,
-  "newPrice": 15.37,
+  "newPrice": 13.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:20",
   "pcAt": "2026-11-10 14:20",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 15.37,
+    "to": 13.99,
+    "at": "2026-11-10 14:20",
+    "by": "Zimo"
+   }
+  ]
  }
 }
