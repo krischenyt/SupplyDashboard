@@ -1,15 +1,23 @@
 {
  "B0CHX3CST7": {
   "mkNote": "",
-  "by": "?",
-  "ts": "2026-11-09 16:38",
+  "by": "KC",
+  "ts": "2026-11-10 10:11",
   "why": "",
   "ship": false,
   "status": "",
   "reqAt": "2026-11-09 16:38",
   "reqBy": "?",
   "statusAt": "2026-11-09 16:38",
-  "statusBy": "?"
+  "statusBy": "?",
+  "pc": true,
+  "oldPrice": 21.72,
+  "pcDec": "pending",
+  "done": false,
+  "pcAt": "2026-11-10 10:11",
+  "pcBy": "KC",
+  "doneAt": "",
+  "doneBy": ""
  },
  "B0G866Q75B": {
   "ship": false,
