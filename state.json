@@ -10,7 +10,7 @@
   "reqBy": "CL",
   "statusAt": "2026-11-09 16:38",
   "statusBy": "?",
-  "pc": true,
+  "pc": false,
   "oldPrice": 21.72,
   "pcDec": "",
   "done": false,
@@ -18,7 +18,7 @@
   "pcBy": "CL",
   "doneAt": "",
   "doneBy": "",
-  "newPrice": 9.99,
+  "newPrice": 0,
   "pcDecAt": "2026-11-10 10:14",
   "pcDecBy": "CL",
   "priceHistory": [
