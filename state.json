@@ -721,5 +721,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0FGKJD22C": {
+  "pc": true,
+  "oldPrice": 12.97,
+  "newPrice": 12.97,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 13:54",
+  "pcAt": "2026-11-10 13:54",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
