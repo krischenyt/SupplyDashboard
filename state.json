@@ -1381,5 +1381,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B09F4GYTDQ": {
+  "pc": true,
+  "oldPrice": 18.5,
+  "newPrice": 18.5,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:13",
+  "pcAt": "2026-11-10 14:13",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
