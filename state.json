@@ -1225,13 +1225,21 @@
  "B0GDS5HSKX": {
   "pc": true,
   "oldPrice": 31.25,
-  "newPrice": 31.25,
+  "newPrice": 29.99,
   "done": false,
   "by": "Zimo",
-  "ts": "2026-11-10 14:10",
-  "pcAt": "2026-11-10 14:10",
+  "ts": "2026-11-10 14:11",
+  "pcAt": "2026-11-10 14:11",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 31.25,
+    "to": 29.99,
+    "at": "2026-11-10 14:11",
+    "by": "Zimo"
+   }
+  ]
  }
 }
