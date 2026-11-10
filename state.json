@@ -172,8 +172,8 @@
  "B0G67LX6V5": {
   "ship": true,
   "status": "",
-  "by": "Zimo",
-  "ts": "2026-11-10 10:57",
+  "by": "CL",
+  "ts": "2026-11-10 13:25",
   "reqAt": "2026-11-09 17:20",
   "reqBy": "Zimo",
   "statusAt": "2026-11-09 17:20",
@@ -187,7 +187,23 @@
   "mktComment": "15.99 deal 120+/day 需要多发货",
   "comment": "15.99 deal 120+/day 需要多发货",
   "mktAt": "2026-11-10 10:57",
-  "mktBy": "Zimo"
+  "mktBy": "Zimo",
+  "pc": true,
+  "oldPrice": 19.38,
+  "newPrice": 19.37,
+  "priceHistory": [
+   {
+    "from": 19.38,
+    "to": 19.37,
+    "at": "2026-11-10 13:25",
+    "by": "CL"
+   }
+  ],
+  "done": false,
+  "pcAt": "2026-11-10 13:25",
+  "pcBy": "CL",
+  "doneAt": "",
+  "doneBy": ""
  },
  "B0HJ6X78VT": {
   "mkNote": "TT视频，从100+/day涨到200+/day",
