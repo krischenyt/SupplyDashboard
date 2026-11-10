@@ -18,10 +18,17 @@
   "pcBy": "Zimo",
   "doneAt": "",
   "doneBy": "",
-  "newPrice": 21.72,
+  "newPrice": 22.99,
   "pcDecAt": "2026-11-10 10:14",
   "pcDecBy": "CL",
-  "priceHistory": [],
+  "priceHistory": [
+   {
+    "from": 21.72,
+    "to": 22.99,
+    "at": "2026-11-10 14:37",
+    "by": "Zimo"
+   }
+  ],
   "supStatus": "",
   "supStatusAt": "",
   "supStatusBy": ""
