@@ -1,10 +1,10 @@
 {
  "B0CHX3CST7": {
   "mkNote": "",
-  "by": "CL",
-  "ts": "2026-11-10 10:47",
+  "by": "KC",
+  "ts": "2026-11-10 10:48",
   "why": "",
-  "ship": false,
+  "ship": true,
   "status": "",
   "reqAt": "2026-11-10 10:46",
   "reqBy": "CL",
@@ -13,25 +13,18 @@
   "pc": false,
   "oldPrice": 21.72,
   "pcDec": "",
-  "done": false,
+  "done": true,
   "pcAt": "2026-11-10 10:46",
   "pcBy": "CL",
-  "doneAt": "",
-  "doneBy": "",
+  "doneAt": "2026-11-10 10:47",
+  "doneBy": "CL",
   "newPrice": 0,
   "pcDecAt": "2026-11-10 10:14",
   "pcDecBy": "CL",
-  "priceHistory": [
-   {
-    "from": 21.72,
-    "to": 9.99,
-    "at": "2026-11-10 10:46",
-    "by": "CL"
-   }
-  ],
-  "supStatus": "",
-  "supStatusAt": "",
-  "supStatusBy": ""
+  "priceHistory": [],
+  "supStatus": "已發貨",
+  "supStatusAt": "2026-11-10 10:47",
+  "supStatusBy": "CL"
  },
  "B0G866Q75B": {
   "ship": false,
