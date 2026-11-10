@@ -841,5 +841,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0GFJ24QBD": {
+  "pc": true,
+  "oldPrice": 11.3,
+  "newPrice": 11.3,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 13:58",
+  "pcAt": "2026-11-10 13:58",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
