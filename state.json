@@ -2215,5 +2215,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0GFH253L2": {
+  "pc": true,
+  "oldPrice": 11.38,
+  "newPrice": 11.38,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:29",
+  "pcAt": "2026-11-10 14:29",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
