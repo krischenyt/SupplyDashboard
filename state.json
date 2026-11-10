@@ -1939,13 +1939,21 @@
  "B0GSCQR4S6": {
   "pc": true,
   "oldPrice": 16.9,
-  "newPrice": 16.9,
+  "newPrice": 13.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:26",
   "pcAt": "2026-11-10 14:26",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 16.9,
+    "to": 13.99,
+    "at": "2026-11-10 14:26",
+    "by": "Zimo"
+   }
+  ]
  }
 }
