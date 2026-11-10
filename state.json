@@ -2826,13 +2826,21 @@
  "B0GN4RPTHP": {
   "pc": true,
   "oldPrice": 17.03,
-  "newPrice": 17.03,
+  "newPrice": 13.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:38",
   "pcAt": "2026-11-10 14:38",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 17.03,
+    "to": 13.99,
+    "at": "2026-11-10 14:38",
+    "by": "Zimo"
+   }
+  ]
  }
 }
