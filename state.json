@@ -1445,13 +1445,21 @@
  "B087F7DTR7": {
   "pc": true,
   "oldPrice": 13.1,
-  "newPrice": 13.1,
+  "newPrice": 9.9,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:17",
   "pcAt": "2026-11-10 14:17",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 13.1,
+    "to": 9.9,
+    "at": "2026-11-10 14:17",
+    "by": "Zimo"
+   }
+  ]
  }
 }
