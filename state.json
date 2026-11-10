@@ -93,13 +93,14 @@
  "B0HJ6X78VT": {
   "mkNote": "TT视频，从100+/day涨到200+/day",
   "by": "Paris Z",
-  "ts": "2026-11-10 09:22",
+  "ts": "2026-11-10 09:38",
   "ship": true,
   "status": "",
   "reqAt": "2026-11-10 09:22",
   "reqBy": "Paris Z",
   "statusAt": "2026-11-10 09:22",
-  "statusBy": "Paris Z"
+  "statusBy": "Paris Z",
+  "why": "other"
  },
  "B0H3QR828N": {
   "ship": true,
