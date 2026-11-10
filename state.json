@@ -3562,5 +3562,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B08MX59VV3": {
+  "pc": true,
+  "oldPrice": 19.98,
+  "newPrice": 19.98,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:50",
+  "pcAt": "2026-11-10 14:50",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
