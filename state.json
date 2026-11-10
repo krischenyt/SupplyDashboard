@@ -805,13 +805,21 @@
  "B0C8LYLM61": {
   "pc": true,
   "oldPrice": 17.31,
-  "newPrice": 17.31,
+  "newPrice": 19.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 13:57",
   "pcAt": "2026-11-10 13:57",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 17.31,
+    "to": 19.99,
+    "at": "2026-11-10 13:57",
+    "by": "Zimo"
+   }
+  ]
  }
 }
