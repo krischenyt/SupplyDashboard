@@ -213,14 +213,30 @@
  "B0H3QR828N": {
   "ship": true,
   "status": "",
-  "by": "Paris Z",
-  "ts": "2026-11-10 09:39",
+  "by": "CL",
+  "ts": "2026-11-10 13:25",
   "reqAt": "2026-11-10 09:37",
   "reqBy": "Paris Z",
   "statusAt": "2026-11-10 09:37",
   "statusBy": "Paris Z",
   "mkNote": "之前有热度怕货接不上涨价了2块钱，但是每天还是能卖28+；需要工厂加急生产",
-  "why": "other"
+  "why": "other",
+  "pc": true,
+  "oldPrice": 17.63,
+  "newPrice": 19.99,
+  "priceHistory": [
+   {
+    "from": 17.63,
+    "to": 19.99,
+    "at": "2026-11-10 13:25",
+    "by": "CL"
+   }
+  ],
+  "done": false,
+  "pcAt": "2026-11-10 13:25",
+  "pcBy": "CL",
+  "doneAt": "",
+  "doneBy": ""
  },
  "B0G2MXVWM8": {
   "ship": true,
