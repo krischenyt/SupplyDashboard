@@ -921,5 +921,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0G73RKZ5R": {
+  "pc": true,
+  "oldPrice": 24.6,
+  "newPrice": 24.6,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:06",
+  "pcAt": "2026-11-10 14:06",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
