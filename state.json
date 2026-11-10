@@ -683,9 +683,9 @@
   ]
  },
  "B0G2MX5LS7": {
-  "pc": false,
+  "pc": true,
   "oldPrice": 14.55,
-  "newPrice": 0,
+  "newPrice": 14.55,
   "priceHistory": [],
   "done": false,
   "by": "Zimo",
