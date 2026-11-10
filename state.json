@@ -2159,13 +2159,21 @@
  "B0GS741GS4": {
   "pc": true,
   "oldPrice": 19.08,
-  "newPrice": 19.08,
+  "newPrice": 19.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:29",
   "pcAt": "2026-11-10 14:29",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 19.08,
+    "to": 19.99,
+    "at": "2026-11-10 14:29",
+    "by": "Zimo"
+   }
+  ]
  }
 }
