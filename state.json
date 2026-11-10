@@ -221,13 +221,21 @@
  "B0F3GFTM5J": {
   "pc": true,
   "oldPrice": 26.37,
-  "newPrice": 26.37,
+  "newPrice": 26.99,
   "done": false,
   "by": "Zimo",
-  "ts": "2026-11-10 13:22",
-  "pcAt": "2026-11-10 13:22",
+  "ts": "2026-11-10 13:23",
+  "pcAt": "2026-11-10 13:23",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 26.37,
+    "to": 26.99,
+    "at": "2026-11-10 13:23",
+    "by": "Zimo"
+   }
+  ]
  }
 }
