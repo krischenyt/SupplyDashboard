@@ -1465,7 +1465,7 @@
  "B08C77PT4J": {
   "pc": true,
   "oldPrice": 17.17,
-  "newPrice": 17.17,
+  "newPrice": 9.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:18",
@@ -1473,6 +1473,13 @@
   "pcBy": "Zimo",
   "doneAt": "",
   "doneBy": "",
-  "priceHistory": []
+  "priceHistory": [
+   {
+    "from": 17.17,
+    "to": 9.99,
+    "at": "2026-11-10 14:18",
+    "by": "Zimo"
+   }
+  ]
  }
 }
