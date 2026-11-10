@@ -405,13 +405,21 @@
  "B0FWHQ31W8": {
   "pc": true,
   "oldPrice": 24.25,
-  "newPrice": 24.25,
+  "newPrice": 24.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 13:25",
   "pcAt": "2026-11-10 13:25",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 24.25,
+    "to": 24.99,
+    "at": "2026-11-10 13:25",
+    "by": "Zimo"
+   }
+  ]
  }
 }
