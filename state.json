@@ -881,5 +881,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0FWJGBPWM": {
+  "pc": true,
+  "oldPrice": 25.66,
+  "newPrice": 25.66,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 13:58",
+  "pcAt": "2026-11-10 13:58",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
