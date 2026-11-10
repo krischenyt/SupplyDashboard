@@ -2619,13 +2619,21 @@
  "B0GFCNK99S": {
   "pc": true,
   "oldPrice": 16.78,
-  "newPrice": 16.78,
+  "newPrice": 13.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:35",
   "pcAt": "2026-11-10 14:35",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 16.78,
+    "to": 13.99,
+    "at": "2026-11-10 14:35",
+    "by": "Zimo"
+   }
+  ]
  }
 }
