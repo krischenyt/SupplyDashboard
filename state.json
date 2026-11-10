@@ -2962,5 +2962,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0G873YCQN": {
+  "pc": true,
+  "oldPrice": 26.25,
+  "newPrice": 26.25,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:41",
+  "pcAt": "2026-11-10 14:41",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
