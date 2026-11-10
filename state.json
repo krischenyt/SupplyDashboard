@@ -279,12 +279,12 @@
   "ship": true,
   "status": "",
   "by": "CL",
-  "ts": "2026-11-10 13:24",
+  "ts": "2026-11-10 14:58",
   "reqAt": "2026-11-10 09:37",
   "reqBy": "Paris Z",
   "statusAt": "2026-11-10 09:37",
   "statusBy": "Paris Z",
-  "why": "promo",
+  "why": "DEAL 13.99賣",
   "mkNote": "deal期间50个/day，要跑到15号结束；11/6发了414个，需要再多发点货",
   "pc": true,
   "oldPrice": 19.19,
@@ -301,7 +301,12 @@
   "pcAt": "2026-11-10 13:24",
   "pcBy": "CL",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "mkt": "DEAL 13.99賣",
+  "mktComment": "DEAL 13.99賣",
+  "comment": "DEAL 13.99賣",
+  "mktAt": "2026-11-10 14:58",
+  "mktBy": "CL"
  },
  "B0F3GFTM5J": {
   "pc": true,
