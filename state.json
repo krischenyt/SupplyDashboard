@@ -226,14 +226,14 @@
   "oldPrice": 34.84,
   "newPrice": 0,
   "priceHistory": [],
-  "done": false,
+  "done": true,
   "pcAt": "2026-11-10 14:15",
   "pcBy": "Paris Z",
-  "doneAt": "",
-  "doneBy": "",
-  "supStatus": "",
-  "supStatusAt": "",
-  "supStatusBy": ""
+  "doneAt": "2026-11-10 14:24",
+  "doneBy": "Rico",
+  "supStatus": "已發貨",
+  "supStatusAt": "2026-11-10 14:24",
+  "supStatusBy": "Rico"
  },
  "B0H3QR828N": {
   "ship": true,
