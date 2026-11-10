@@ -18,10 +18,17 @@
   "pcBy": "CL",
   "doneAt": "",
   "doneBy": "",
-  "newPrice": 21.72,
+  "newPrice": 13.99,
   "pcDecAt": "2026-11-10 10:14",
   "pcDecBy": "CL",
-  "priceHistory": [],
+  "priceHistory": [
+   {
+    "from": 21.72,
+    "to": 13.99,
+    "at": "2026-11-10 10:51",
+    "by": "CL"
+   }
+  ],
   "supStatus": "",
   "supStatusAt": "",
   "supStatusBy": ""
