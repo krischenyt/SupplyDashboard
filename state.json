@@ -46,12 +46,20 @@
   "statusBy": "C",
   "pc": true,
   "oldPrice": 28.9,
-  "newPrice": 28.9,
+  "newPrice": 28.99,
   "done": false,
   "pcAt": "2026-11-10 13:24",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 28.9,
+    "to": 28.99,
+    "at": "2026-11-10 13:24",
+    "by": "Zimo"
+   }
+  ]
  },
  "B0GN3P9LCM": {
   "ship": true,
