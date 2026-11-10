@@ -3486,13 +3486,21 @@
  "B0FCVRCJ2S": {
   "pc": true,
   "oldPrice": 22.57,
-  "newPrice": 22.57,
+  "newPrice": 21.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:50",
   "pcAt": "2026-11-10 14:50",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 22.57,
+    "to": 21.99,
+    "at": "2026-11-10 14:50",
+    "by": "Zimo"
+   }
+  ]
  }
 }
