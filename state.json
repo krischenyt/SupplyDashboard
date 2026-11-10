@@ -93,6 +93,12 @@
  "B0HJ6X78VT": {
   "mkNote": "TT视频",
   "by": "Paris Z",
-  "ts": "2026-11-10 09:22"
+  "ts": "2026-11-10 09:22",
+  "ship": true,
+  "status": "",
+  "reqAt": "2026-11-10 09:22",
+  "reqBy": "Paris Z",
+  "statusAt": "2026-11-10 09:22",
+  "statusBy": "Paris Z"
  }
 }
