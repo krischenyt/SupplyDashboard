@@ -2559,13 +2559,21 @@
  "B0G2N4TH7Z": {
   "pc": true,
   "oldPrice": 17.3,
-  "newPrice": 17.3,
+  "newPrice": 13.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:34",
   "pcAt": "2026-11-10 14:34",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 17.3,
+    "to": 13.99,
+    "at": "2026-11-10 14:34",
+    "by": "Zimo"
+   }
+  ]
  }
 }
