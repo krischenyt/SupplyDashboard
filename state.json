@@ -625,13 +625,21 @@
  "B0DW1M7VQK": {
   "pc": true,
   "oldPrice": 14.37,
-  "newPrice": 14.37,
+  "newPrice": 13.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 13:40",
   "pcAt": "2026-11-10 13:40",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 14.37,
+    "to": 13.99,
+    "at": "2026-11-10 13:40",
+    "by": "Zimo"
+   }
+  ]
  }
 }
