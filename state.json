@@ -485,13 +485,21 @@
  "B0CZFY5H2J": {
   "pc": true,
   "oldPrice": 22.88,
-  "newPrice": 22.88,
+  "newPrice": 19.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 13:38",
   "pcAt": "2026-11-10 13:38",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 22.88,
+    "to": 19.99,
+    "at": "2026-11-10 13:38",
+    "by": "Zimo"
+   }
+  ]
  }
 }
