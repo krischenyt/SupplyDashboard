@@ -1101,5 +1101,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0GMYL258F": {
+  "pc": true,
+  "oldPrice": 15.7,
+  "newPrice": 15.7,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:08",
+  "pcAt": "2026-11-10 14:08",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
