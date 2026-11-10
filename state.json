@@ -1895,5 +1895,25 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0G17R2KGK": {
+  "pc": true,
+  "oldPrice": 11.71,
+  "newPrice": 13.99,
+  "priceHistory": [
+   {
+    "from": 11.71,
+    "to": 13.99,
+    "at": "2026-11-10 14:25",
+    "by": "Zimo"
+   }
+  ],
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:25",
+  "pcAt": "2026-11-10 14:25",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
