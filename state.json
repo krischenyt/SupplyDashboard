@@ -505,13 +505,21 @@
  "B07S17DJS3": {
   "pc": true,
   "oldPrice": 20.48,
-  "newPrice": 20.48,
+  "newPrice": 22.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 13:38",
   "pcAt": "2026-11-10 13:38",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 20.48,
+    "to": 22.99,
+    "at": "2026-11-10 13:38",
+    "by": "Zimo"
+   }
+  ]
  }
 }
