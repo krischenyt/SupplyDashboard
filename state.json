@@ -3266,13 +3266,21 @@
  "B0CWNDCY6V": {
   "pc": true,
   "oldPrice": 16.95,
-  "newPrice": 16.95,
+  "newPrice": 13.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:45",
   "pcAt": "2026-11-10 14:45",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 16.95,
+    "to": 13.99,
+    "at": "2026-11-10 14:45",
+    "by": "Zimo"
+   }
+  ]
  }
 }
