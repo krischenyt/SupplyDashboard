@@ -645,13 +645,21 @@
  "B0C6WN52Q9": {
   "pc": true,
   "oldPrice": 21.41,
-  "newPrice": 21.41,
+  "newPrice": 19.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 13:40",
   "pcAt": "2026-11-10 13:40",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 21.41,
+    "to": 19.99,
+    "at": "2026-11-10 13:40",
+    "by": "Zimo"
+   }
+  ]
  }
 }
