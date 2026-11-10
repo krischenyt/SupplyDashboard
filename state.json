@@ -1955,5 +1955,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0C8M1F4V7": {
+  "pc": true,
+  "oldPrice": 29.01,
+  "newPrice": 29.01,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:26",
+  "pcAt": "2026-11-10 14:26",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
