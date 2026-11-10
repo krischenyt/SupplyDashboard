@@ -1781,5 +1781,25 @@
   "pcBy": "Zimo",
   "doneAt": "",
   "doneBy": ""
+ },
+ "B0G88JHDNF": {
+  "pc": true,
+  "oldPrice": 11.42,
+  "newPrice": 12.99,
+  "priceHistory": [
+   {
+    "from": 11.42,
+    "to": 12.99,
+    "at": "2026-11-10 14:24",
+    "by": "Zimo"
+   }
+  ],
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:24",
+  "pcAt": "2026-11-10 14:24",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
