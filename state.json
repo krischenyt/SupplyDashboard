@@ -903,23 +903,16 @@
   ]
  },
  "B0G8826WZQ": {
-  "pc": true,
+  "pc": false,
   "oldPrice": 18.48,
-  "newPrice": 21.99,
+  "newPrice": 0,
   "done": false,
   "by": "Zimo",
-  "ts": "2026-11-10 13:58",
+  "ts": "2026-11-10 13:59",
   "pcAt": "2026-11-10 13:58",
   "pcBy": "Zimo",
   "doneAt": "",
   "doneBy": "",
-  "priceHistory": [
-   {
-    "from": 18.48,
-    "to": 21.99,
-    "at": "2026-11-10 13:58",
-    "by": "Zimo"
-   }
-  ]
+  "priceHistory": []
  }
 }
