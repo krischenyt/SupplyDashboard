@@ -29,8 +29,8 @@
  "B0G866Q75B": {
   "ship": false,
   "status": "",
-  "by": "C",
-  "ts": "2026-11-09 15:35",
+  "by": "Zimo",
+  "ts": "2026-11-10 13:24",
   "why": "price",
   "price": 28.9,
   "priceAt": "2026-11-09 15:34",
@@ -43,7 +43,15 @@
   "reqAt": "2026-11-09 15:33",
   "reqBy": "CL",
   "statusAt": "2026-11-09 15:35",
-  "statusBy": "C"
+  "statusBy": "C",
+  "pc": true,
+  "oldPrice": 28.9,
+  "newPrice": 28.9,
+  "done": false,
+  "pcAt": "2026-11-10 13:24",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  },
  "B0GN3P9LCM": {
   "ship": true,
