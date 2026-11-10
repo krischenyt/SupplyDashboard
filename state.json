@@ -1041,5 +1041,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0GZ15FCTW": {
+  "pc": true,
+  "oldPrice": 18.26,
+  "newPrice": 18.26,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:07",
+  "pcAt": "2026-11-10 14:07",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
