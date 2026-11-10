@@ -788,8 +788,8 @@
   "oldPrice": 13,
   "newPrice": 9.99,
   "done": false,
-  "by": "Zimo",
-  "ts": "2026-11-10 13:57",
+  "by": "CL",
+  "ts": "2026-11-10 14:56",
   "pcAt": "2026-11-10 13:57",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -801,7 +801,13 @@
     "at": "2026-11-10 13:57",
     "by": "Zimo"
    }
-  ]
+  ],
+  "why": "賣完DC",
+  "mkt": "賣完DC",
+  "mktComment": "賣完DC",
+  "comment": "賣完DC",
+  "mktAt": "2026-11-10 14:56",
+  "mktBy": "CL"
  },
  "B0DVMFPFJ1": {
   "pc": true,
