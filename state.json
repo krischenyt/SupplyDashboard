@@ -1741,5 +1741,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0G87SNY26": {
+  "pc": true,
+  "oldPrice": 21.23,
+  "newPrice": 21.23,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:23",
+  "pcAt": "2026-11-10 14:23",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
