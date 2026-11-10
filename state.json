@@ -1285,13 +1285,21 @@
  "B0G884ZTJV": {
   "pc": true,
   "oldPrice": 22.76,
-  "newPrice": 22.76,
+  "newPrice": 21.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:11",
   "pcAt": "2026-11-10 14:11",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 22.76,
+    "to": 21.99,
+    "at": "2026-11-10 14:11",
+    "by": "Zimo"
+   }
+  ]
  }
 }
