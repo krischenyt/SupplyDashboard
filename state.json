@@ -120,8 +120,8 @@
  "B0G2MWSJTY": {
   "ship": true,
   "status": "",
-  "by": "?",
-  "ts": "2026-11-09 16:43",
+  "by": "Zimo",
+  "ts": "2026-11-10 10:56",
   "reqAt": "2026-11-09 16:43",
   "reqBy": "?",
   "statusAt": "2026-11-09 16:43",
@@ -130,7 +130,23 @@
   "priceAt": "2026-11-09 16:43",
   "priceBy": "?",
   "why": "promo",
-  "mkNote": "DEAL9.9 100/day List price降价13.99 40/day 需要多发货"
+  "mkNote": "DEAL9.9 100/day List price降价13.99 40/day 需要多发货",
+  "pc": true,
+  "oldPrice": 16.92,
+  "newPrice": 13.99,
+  "priceHistory": [
+   {
+    "from": 16.92,
+    "to": 13.99,
+    "at": "2026-11-10 10:56",
+    "by": "Zimo"
+   }
+  ],
+  "done": false,
+  "pcAt": "2026-11-10 10:56",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  },
  "B0G67LX6V5": {
   "ship": true,
