@@ -1585,13 +1585,21 @@
  "B0GFGNKJ5Q": {
   "pc": true,
   "oldPrice": 11.13,
-  "newPrice": 11.13,
+  "newPrice": 8.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:21",
   "pcAt": "2026-11-10 14:21",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 11.13,
+    "to": 8.99,
+    "at": "2026-11-10 14:21",
+    "by": "Zimo"
+   }
+  ]
  }
 }
