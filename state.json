@@ -1321,5 +1321,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0F7NTZ8KD": {
+  "pc": true,
+  "oldPrice": 18.64,
+  "newPrice": 18.64,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:12",
+  "pcAt": "2026-11-10 14:12",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
