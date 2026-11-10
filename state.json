@@ -103,15 +103,31 @@
  },
  "B0HJ6X78VT": {
   "mkNote": "TT视频，从100+/day涨到200+/day",
-  "by": "Paris Z",
-  "ts": "2026-11-10 09:38",
+  "by": "KC",
+  "ts": "2026-11-10 10:46",
   "ship": true,
   "status": "",
   "reqAt": "2026-11-10 09:22",
   "reqBy": "Paris Z",
   "statusAt": "2026-11-10 09:22",
   "statusBy": "Paris Z",
-  "why": "other"
+  "why": "other",
+  "pc": true,
+  "oldPrice": 34.84,
+  "newPrice": 34.83,
+  "priceHistory": [
+   {
+    "from": 34.84,
+    "to": 34.83,
+    "at": "2026-11-10 10:46",
+    "by": "KC"
+   }
+  ],
+  "done": false,
+  "pcAt": "2026-11-10 10:46",
+  "pcBy": "KC",
+  "doneAt": "",
+  "doneBy": ""
  },
  "B0H3QR828N": {
   "ship": true,
