@@ -1441,5 +1441,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B087F7DTR7": {
+  "pc": true,
+  "oldPrice": 13.1,
+  "newPrice": 13.1,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:17",
+  "pcAt": "2026-11-10 14:17",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
