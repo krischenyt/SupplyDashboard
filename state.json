@@ -1565,13 +1565,21 @@
  "B0GKBPHMGV": {
   "pc": true,
   "oldPrice": 17.18,
-  "newPrice": 17.18,
+  "newPrice": 16.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:20",
   "pcAt": "2026-11-10 14:20",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 17.18,
+    "to": 16.99,
+    "at": "2026-11-10 14:20",
+    "by": "Zimo"
+   }
+  ]
  }
 }
