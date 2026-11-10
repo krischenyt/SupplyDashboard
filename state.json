@@ -112,17 +112,10 @@
   "statusAt": "2026-11-10 09:22",
   "statusBy": "Paris Z",
   "why": "other",
-  "pc": true,
+  "pc": false,
   "oldPrice": 34.84,
-  "newPrice": 34.83,
-  "priceHistory": [
-   {
-    "from": 34.84,
-    "to": 34.83,
-    "at": "2026-11-10 10:46",
-    "by": "KC"
-   }
-  ],
+  "newPrice": 0,
+  "priceHistory": [],
   "done": false,
   "pcAt": "2026-11-10 10:46",
   "pcBy": "KC",
