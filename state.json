@@ -83,6 +83,9 @@
   "reqAt": "2026-11-09 17:20",
   "reqBy": "Zimo",
   "statusAt": "2026-11-09 17:20",
-  "statusBy": "Zimo"
+  "statusBy": "Zimo",
+  "price": 15.99,
+  "priceAt": "2026-11-09 17:20",
+  "priceBy": "Zimo"
  }
 }
