@@ -1605,13 +1605,21 @@
  "B0GN3W5D4K": {
   "pc": true,
   "oldPrice": 13.95,
-  "newPrice": 13.95,
+  "newPrice": 9.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:21",
   "pcAt": "2026-11-10 14:21",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 13.95,
+    "to": 9.99,
+    "at": "2026-11-10 14:21",
+    "by": "Zimo"
+   }
+  ]
  }
 }
