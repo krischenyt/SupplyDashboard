@@ -3599,5 +3599,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B07RH9L848": {
+  "pc": true,
+  "oldPrice": 29.81,
+  "newPrice": 29.81,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 15:00",
+  "pcAt": "2026-11-10 15:00",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
