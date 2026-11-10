@@ -2862,5 +2862,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0G87K7RVM": {
+  "pc": true,
+  "oldPrice": 12.44,
+  "newPrice": 12.44,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:39",
+  "pcAt": "2026-11-10 14:39",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
