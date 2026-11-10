@@ -2075,5 +2075,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0G771Z9VB": {
+  "pc": true,
+  "oldPrice": 11.27,
+  "newPrice": 11.27,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:28",
+  "pcAt": "2026-11-10 14:28",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
