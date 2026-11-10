@@ -3625,5 +3625,25 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0C325P6Z4": {
+  "pc": true,
+  "oldPrice": 26.95,
+  "newPrice": 28.99,
+  "priceHistory": [
+   {
+    "from": 26.95,
+    "to": 28.99,
+    "at": "2026-11-10 15:31",
+    "by": "CL"
+   }
+  ],
+  "done": false,
+  "by": "CL",
+  "ts": "2026-11-10 15:31",
+  "pcAt": "2026-11-10 15:31",
+  "pcBy": "CL",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
