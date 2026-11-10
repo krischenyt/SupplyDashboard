@@ -3122,5 +3122,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0DWD6PXP2": {
+  "pc": true,
+  "oldPrice": 19.98,
+  "newPrice": 19.98,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:43",
+  "pcAt": "2026-11-10 14:43",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
