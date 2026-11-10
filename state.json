@@ -2135,5 +2135,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0G2ZVFD3J": {
+  "pc": true,
+  "oldPrice": 25.75,
+  "newPrice": 25.75,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:28",
+  "pcAt": "2026-11-10 14:28",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
