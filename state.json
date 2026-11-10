@@ -2335,5 +2335,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B07VC1M3S3": {
+  "pc": true,
+  "oldPrice": 17.18,
+  "newPrice": 17.18,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:31",
+  "pcAt": "2026-11-10 14:31",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
