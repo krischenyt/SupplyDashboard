@@ -2479,13 +2479,21 @@
  "B0G67BZNYN": {
   "pc": true,
   "oldPrice": 18.34,
-  "newPrice": 18.34,
+  "newPrice": 16.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:32",
   "pcAt": "2026-11-10 14:32",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 18.34,
+    "to": 16.99,
+    "at": "2026-11-10 14:32",
+    "by": "Zimo"
+   }
+  ]
  }
 }
