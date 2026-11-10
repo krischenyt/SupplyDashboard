@@ -521,5 +521,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0GDS357K4": {
+  "pc": true,
+  "oldPrice": 10.5,
+  "newPrice": 10.5,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 13:38",
+  "pcAt": "2026-11-10 13:38",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
