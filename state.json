@@ -3386,13 +3386,21 @@
  "B0GYZVN9TF": {
   "pc": true,
   "oldPrice": 29.96,
-  "newPrice": 29.96,
+  "newPrice": 26.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:47",
   "pcAt": "2026-11-10 14:47",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 29.96,
+    "to": 26.99,
+    "at": "2026-11-10 14:47",
+    "by": "Zimo"
+   }
+  ]
  }
 }
