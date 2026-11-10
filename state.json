@@ -2635,5 +2635,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0GN45DBJR": {
+  "pc": true,
+  "oldPrice": 14.81,
+  "newPrice": 14.81,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:35",
+  "pcAt": "2026-11-10 14:35",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
