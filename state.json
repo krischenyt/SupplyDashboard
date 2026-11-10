@@ -2515,5 +2515,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0FJ4838J3": {
+  "pc": true,
+  "oldPrice": 20.51,
+  "newPrice": 20.51,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:33",
+  "pcAt": "2026-11-10 14:33",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
