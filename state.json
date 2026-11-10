@@ -1995,5 +1995,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0DW1BXPMV": {
+  "pc": true,
+  "oldPrice": 15.34,
+  "newPrice": 15.34,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:27",
+  "pcAt": "2026-11-10 14:27",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
