@@ -1521,5 +1521,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0BWGY19D1": {
+  "pc": true,
+  "oldPrice": 25.6,
+  "newPrice": 25.6,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:20",
+  "pcAt": "2026-11-10 14:20",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
