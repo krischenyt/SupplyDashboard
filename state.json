@@ -3342,5 +3342,18 @@
   "pcBy": "Zimo",
   "doneAt": "",
   "doneBy": ""
+ },
+ "B0G62DM3QL": {
+  "pc": true,
+  "oldPrice": 0,
+  "newPrice": 0,
+  "priceHistory": [],
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:46",
+  "pcAt": "2026-11-10 14:46",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
