@@ -116,10 +116,11 @@
   "ship": true,
   "status": "",
   "by": "Paris Z",
-  "ts": "2026-11-10 09:37",
+  "ts": "2026-11-10 09:38",
   "reqAt": "2026-11-10 09:37",
   "reqBy": "Paris Z",
   "statusAt": "2026-11-10 09:37",
-  "statusBy": "Paris Z"
+  "statusBy": "Paris Z",
+  "why": "promo"
  }
 }
