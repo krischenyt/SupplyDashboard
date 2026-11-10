@@ -2175,5 +2175,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0G17PT98Y": {
+  "pc": true,
+  "oldPrice": 15.85,
+  "newPrice": 15.85,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:29",
+  "pcAt": "2026-11-10 14:29",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
