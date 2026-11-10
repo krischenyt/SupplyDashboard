@@ -209,14 +209,30 @@
  "B0G2MXVWM8": {
   "ship": true,
   "status": "",
-  "by": "Paris Z",
-  "ts": "2026-11-10 09:38",
+  "by": "CL",
+  "ts": "2026-11-10 13:24",
   "reqAt": "2026-11-10 09:37",
   "reqBy": "Paris Z",
   "statusAt": "2026-11-10 09:37",
   "statusBy": "Paris Z",
   "why": "promo",
-  "mkNote": "deal期间50个/day，要跑到15号结束；11/6发了414个，需要再多发点货"
+  "mkNote": "deal期间50个/day，要跑到15号结束；11/6发了414个，需要再多发点货",
+  "pc": true,
+  "oldPrice": 19.19,
+  "newPrice": 19.2,
+  "priceHistory": [
+   {
+    "from": 19.19,
+    "to": 19.2,
+    "at": "2026-11-10 13:24",
+    "by": "CL"
+   }
+  ],
+  "done": false,
+  "pcAt": "2026-11-10 13:24",
+  "pcBy": "CL",
+  "doneAt": "",
+  "doneBy": ""
  },
  "B0F3GFTM5J": {
   "pc": true,
