@@ -59,5 +59,15 @@
   "priceBy": "?",
   "why": "price",
   "mkNote": "直降9.9 40/day"
+ },
+ "B0G2MWSJTY": {
+  "ship": true,
+  "status": "",
+  "by": "?",
+  "ts": "2026-11-09 16:43",
+  "reqAt": "2026-11-09 16:43",
+  "reqBy": "?",
+  "statusAt": "2026-11-09 16:43",
+  "statusBy": "?"
  }
 }
