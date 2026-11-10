@@ -765,13 +765,21 @@
  "B0F3B3Y86P": {
   "pc": true,
   "oldPrice": 13,
-  "newPrice": 13,
+  "newPrice": 9.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 13:57",
   "pcAt": "2026-11-10 13:57",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 13,
+    "to": 9.99,
+    "at": "2026-11-10 13:57",
+    "by": "Zimo"
+   }
+  ]
  }
 }
