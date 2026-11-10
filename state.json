@@ -2782,5 +2782,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0G62GVNNK": {
+  "pc": true,
+  "oldPrice": 20.12,
+  "newPrice": 20.12,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:38",
+  "pcAt": "2026-11-10 14:38",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
