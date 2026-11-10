@@ -1201,5 +1201,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0G8748JJH": {
+  "pc": true,
+  "oldPrice": 19.8,
+  "newPrice": 19.8,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:10",
+  "pcAt": "2026-11-10 14:10",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
