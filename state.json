@@ -3404,17 +3404,10 @@
   ]
  },
  "B0GDS8S34H": {
-  "pc": true,
+  "pc": false,
   "oldPrice": 23.2,
-  "newPrice": 23.21,
-  "priceHistory": [
-   {
-    "from": 23.2,
-    "to": 23.21,
-    "at": "2026-11-10 14:48",
-    "by": "Zimo"
-   }
-  ],
+  "newPrice": 0,
+  "priceHistory": [],
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:48",
