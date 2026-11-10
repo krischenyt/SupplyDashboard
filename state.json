@@ -591,7 +591,7 @@
  "B0DWD26MMF": {
   "pc": true,
   "oldPrice": 22.51,
-  "newPrice": 22.51,
+  "newPrice": 16.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 15:00",
@@ -600,6 +600,12 @@
   "doneAt": "",
   "doneBy": "",
   "priceHistory": [
+   {
+    "from": 22.51,
+    "to": 16.99,
+    "at": "2026-11-10 15:00",
+    "by": "Zimo"
+   },
    {
     "from": 22.51,
     "to": 19.99,
