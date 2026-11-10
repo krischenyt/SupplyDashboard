@@ -10,15 +10,15 @@
   "reqBy": "CL",
   "statusAt": "2026-11-09 16:38",
   "statusBy": "?",
-  "pc": false,
+  "pc": true,
   "oldPrice": 21.72,
   "pcDec": "",
   "done": false,
-  "pcAt": "2026-11-10 10:52",
+  "pcAt": "2026-11-10 10:53",
   "pcBy": "CL",
   "doneAt": "",
   "doneBy": "",
-  "newPrice": 0,
+  "newPrice": 9.99,
   "pcDecAt": "2026-11-10 10:14",
   "pcDecBy": "CL",
   "priceHistory": [
@@ -33,12 +33,6 @@
     "to": 54,
     "at": "2026-11-10 10:52",
     "by": "KC"
-   },
-   {
-    "from": 21.72,
-    "to": 13.99,
-    "at": "2026-11-10 10:51",
-    "by": "CL"
    }
   ],
   "supStatus": "",
