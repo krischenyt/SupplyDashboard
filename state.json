@@ -1025,7 +1025,7 @@
  "B0GPRF1TMB": {
   "pc": true,
   "oldPrice": 20.82,
-  "newPrice": 24.99,
+  "newPrice": 21.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:07",
@@ -1034,6 +1034,12 @@
   "doneAt": "",
   "doneBy": "",
   "priceHistory": [
+   {
+    "from": 24.99,
+    "to": 21.99,
+    "at": "2026-11-10 14:07",
+    "by": "Zimo"
+   },
    {
     "from": 20.82,
     "to": 24.99,
