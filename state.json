@@ -2235,5 +2235,25 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0GVVSSB5Z": {
+  "pc": true,
+  "oldPrice": 22.67,
+  "newPrice": 21.99,
+  "priceHistory": [
+   {
+    "from": 22.67,
+    "to": 21.99,
+    "at": "2026-11-10 14:30",
+    "by": "Zimo"
+   }
+  ],
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:30",
+  "pcAt": "2026-11-10 14:30",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
