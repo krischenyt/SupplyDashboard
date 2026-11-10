@@ -1681,5 +1681,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0G87JDKST": {
+  "pc": true,
+  "oldPrice": 11.23,
+  "newPrice": 11.23,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:22",
+  "pcAt": "2026-11-10 14:22",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
