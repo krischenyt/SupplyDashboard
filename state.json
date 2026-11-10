@@ -665,13 +665,21 @@
  "B0CG7M9HWP": {
   "pc": true,
   "oldPrice": 30.32,
-  "newPrice": 30.32,
+  "newPrice": 29.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 13:40",
   "pcAt": "2026-11-10 13:40",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 30.32,
+    "to": 29.99,
+    "at": "2026-11-10 13:40",
+    "by": "Zimo"
+   }
+  ]
  }
 }
