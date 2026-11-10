@@ -683,17 +683,10 @@
   ]
  },
  "B0G2MX5LS7": {
-  "pc": true,
+  "pc": false,
   "oldPrice": 14.55,
-  "newPrice": 14.61,
-  "priceHistory": [
-   {
-    "from": 14.55,
-    "to": 14.61,
-    "at": "2026-11-10 13:52",
-    "by": "Zimo"
-   }
-  ],
+  "newPrice": 0,
+  "priceHistory": [],
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 13:52",
