@@ -3346,8 +3346,15 @@
  "B0G62DM3QL": {
   "pc": true,
   "oldPrice": 0,
-  "newPrice": 0,
-  "priceHistory": [],
+  "newPrice": 13.99,
+  "priceHistory": [
+   {
+    "from": 0,
+    "to": 13.99,
+    "at": "2026-11-10 14:46",
+    "by": "Zimo"
+   }
+  ],
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:46",
