@@ -1405,13 +1405,21 @@
  "B085WGL72X": {
   "pc": true,
   "oldPrice": 11.49,
-  "newPrice": 11.49,
+  "newPrice": 9.9,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:14",
   "pcAt": "2026-11-10 14:14",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 11.49,
+    "to": 9.9,
+    "at": "2026-11-10 14:14",
+    "by": "Zimo"
+   }
+  ]
  }
 }
