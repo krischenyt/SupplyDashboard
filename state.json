@@ -589,12 +589,12 @@
   ]
  },
  "B0DWD26MMF": {
-  "pc": true,
+  "pc": false,
   "oldPrice": 22.51,
-  "newPrice": 19.99,
+  "newPrice": 0,
   "done": false,
   "by": "Zimo",
-  "ts": "2026-11-10 13:39",
+  "ts": "2026-11-10 15:00",
   "pcAt": "2026-11-10 13:39",
   "pcBy": "Zimo",
   "doneAt": "",
