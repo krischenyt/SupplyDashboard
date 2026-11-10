@@ -1472,15 +1472,21 @@
  "B087F7DTR7": {
   "pc": true,
   "oldPrice": 13.1,
-  "newPrice": 9.9,
+  "newPrice": 9.99,
   "done": false,
   "by": "Zimo",
-  "ts": "2026-11-10 14:17",
-  "pcAt": "2026-11-10 14:17",
+  "ts": "2026-11-10 14:57",
+  "pcAt": "2026-11-10 14:57",
   "pcBy": "Zimo",
   "doneAt": "",
   "doneBy": "",
   "priceHistory": [
+   {
+    "from": 9.9,
+    "to": 9.99,
+    "at": "2026-11-10 14:57",
+    "by": "Zimo"
+   },
    {
     "from": 13.1,
     "to": 9.9,
