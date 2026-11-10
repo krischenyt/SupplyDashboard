@@ -214,7 +214,7 @@
  "B0HJ6X78VT": {
   "mkNote": "TT视频，从100+/day涨到200+/day",
   "by": "Rico",
-  "ts": "2026-11-10 14:24",
+  "ts": "2026-11-10 14:25",
   "ship": true,
   "status": "",
   "reqAt": "2026-11-10 09:22",
@@ -226,14 +226,14 @@
   "oldPrice": 34.84,
   "newPrice": 0,
   "priceHistory": [],
-  "done": true,
+  "done": false,
   "pcAt": "2026-11-10 14:15",
   "pcBy": "Paris Z",
-  "doneAt": "2026-11-10 14:24",
-  "doneBy": "Rico",
-  "supStatus": "已發貨",
-  "supStatusAt": "2026-11-10 14:24",
-  "supStatusBy": "Rico"
+  "doneAt": "",
+  "doneBy": "",
+  "supStatus": "",
+  "supStatusAt": "",
+  "supStatusBy": ""
  },
  "B0H3QR828N": {
   "ship": true,
