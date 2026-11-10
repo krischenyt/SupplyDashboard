@@ -233,10 +233,17 @@
   "statusBy": "Paris Z",
   "why": "promo",
   "mkNote": "deal期间50个/day，要跑到15号结束；11/6发了414个，需要再多发点货",
-  "pc": false,
+  "pc": true,
   "oldPrice": 19.19,
-  "newPrice": 0,
-  "priceHistory": [],
+  "newPrice": 13.99,
+  "priceHistory": [
+   {
+    "from": 19.19,
+    "to": 13.99,
+    "at": "2026-11-10 13:24",
+    "by": "CL"
+   }
+  ],
   "done": false,
   "pcAt": "2026-11-10 13:24",
   "pcBy": "CL",
