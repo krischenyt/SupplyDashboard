@@ -129,7 +129,7 @@
   "price": 9.9,
   "priceAt": "2026-11-09 16:43",
   "priceBy": "?",
-  "why": "promo",
+  "why": "降价+9.99 promo",
   "mkNote": "DEAL9.9 100/day List price降价13.99 40/day 需要多发货",
   "pc": true,
   "oldPrice": 16.92,
@@ -146,7 +146,12 @@
   "pcAt": "2026-11-10 10:56",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "mkt": "降价+9.99 promo",
+  "mktComment": "降价+9.99 promo",
+  "comment": "降价+9.99 promo",
+  "mktAt": "2026-11-10 10:56",
+  "mktBy": "Zimo"
  },
  "B0G67LX6V5": {
   "ship": true,
