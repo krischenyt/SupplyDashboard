@@ -1265,13 +1265,21 @@
  "B0GFSH65GG": {
   "pc": true,
   "oldPrice": 14.83,
-  "newPrice": 14.83,
+  "newPrice": 9.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:11",
   "pcAt": "2026-11-10 14:11",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 14.83,
+    "to": 9.99,
+    "at": "2026-11-10 14:11",
+    "by": "Zimo"
+   }
+  ]
  }
 }
