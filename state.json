@@ -237,5 +237,25 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B07RD8TVDG": {
+  "pc": true,
+  "oldPrice": 22.12,
+  "newPrice": 22.99,
+  "priceHistory": [
+   {
+    "from": 22.12,
+    "to": 22.99,
+    "at": "2026-11-10 13:24",
+    "by": "Zimo"
+   }
+  ],
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 13:24",
+  "pcAt": "2026-11-10 13:24",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
