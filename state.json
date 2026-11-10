@@ -1859,13 +1859,21 @@
  "B0GSCHKK6Y": {
   "pc": true,
   "oldPrice": 17.23,
-  "newPrice": 17.23,
+  "newPrice": 16.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:25",
   "pcAt": "2026-11-10 14:25",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 17.23,
+    "to": 16.99,
+    "at": "2026-11-10 14:25",
+    "by": "Zimo"
+   }
+  ]
  }
 }
