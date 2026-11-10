@@ -1661,5 +1661,17 @@
   "pcBy": "Zimo",
   "doneAt": "",
   "doneBy": ""
+ },
+ "B0BWGPJNTR": {
+  "pc": true,
+  "oldPrice": 17.24,
+  "newPrice": 17.24,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:22",
+  "pcAt": "2026-11-10 14:22",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
