@@ -3322,5 +3322,25 @@
   "pcBy": "Zimo",
   "doneAt": "",
   "doneBy": ""
+ },
+ "B0HJSSL4SD": {
+  "pc": true,
+  "oldPrice": 0,
+  "newPrice": 16.99,
+  "priceHistory": [
+   {
+    "from": 0,
+    "to": 16.99,
+    "at": "2026-11-10 14:46",
+    "by": "Zimo"
+   }
+  ],
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:46",
+  "pcAt": "2026-11-10 14:46",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
