@@ -605,7 +605,7 @@
  "B0CF3JV16Q": {
   "pc": true,
   "oldPrice": 18.61,
-  "newPrice": 16.99,
+  "newPrice": 19.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 13:40",
@@ -614,12 +614,6 @@
   "doneAt": "",
   "doneBy": "",
   "priceHistory": [
-   {
-    "from": 19.99,
-    "to": 16.99,
-    "at": "2026-11-10 13:40",
-    "by": "Zimo"
-   },
    {
     "from": 18.61,
     "to": 19.99,
