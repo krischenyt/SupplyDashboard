@@ -3366,7 +3366,7 @@
  "B0G88K4JWK": {
   "pc": true,
   "oldPrice": 0,
-  "newPrice": 13.99,
+  "newPrice": 0,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:47",
@@ -3374,13 +3374,6 @@
   "pcBy": "Zimo",
   "doneAt": "",
   "doneBy": "",
-  "priceHistory": [
-   {
-    "from": 0,
-    "to": 13.99,
-    "at": "2026-11-10 14:47",
-    "by": "Zimo"
-   }
-  ]
+  "priceHistory": []
  }
 }
