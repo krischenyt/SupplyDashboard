@@ -2499,13 +2499,21 @@
  "B0GVVPHLX7": {
   "pc": true,
   "oldPrice": 17.99,
-  "newPrice": 17.99,
+  "newPrice": 19.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:33",
   "pcAt": "2026-11-10 14:33",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 17.99,
+    "to": 19.99,
+    "at": "2026-11-10 14:33",
+    "by": "Zimo"
+   }
+  ]
  }
 }
