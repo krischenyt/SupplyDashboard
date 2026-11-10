@@ -2579,13 +2579,21 @@
  "B0D883PXW4": {
   "pc": true,
   "oldPrice": 15.67,
-  "newPrice": 15.67,
+  "newPrice": 9.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:34",
   "pcAt": "2026-11-10 14:34",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 15.67,
+    "to": 9.99,
+    "at": "2026-11-10 14:34",
+    "by": "Zimo"
+   }
+  ]
  }
 }
