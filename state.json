@@ -217,5 +217,17 @@
   "statusBy": "Paris Z",
   "why": "promo",
   "mkNote": "deal期间50个/day，要跑到15号结束；11/6发了414个，需要再多发点货"
+ },
+ "B0F3GFTM5J": {
+  "pc": true,
+  "oldPrice": 26.37,
+  "newPrice": 26.37,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 13:22",
+  "pcAt": "2026-11-10 13:22",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
