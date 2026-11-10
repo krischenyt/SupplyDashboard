@@ -1065,13 +1065,21 @@
  "B0GDS1CQYR": {
   "pc": true,
   "oldPrice": 18.12,
-  "newPrice": 18.12,
+  "newPrice": 16.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:08",
   "pcAt": "2026-11-10 14:08",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 18.12,
+    "to": 16.99,
+    "at": "2026-11-10 14:08",
+    "by": "Zimo"
+   }
+  ]
  }
 }
