@@ -441,5 +441,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0H6GN2PK2": {
+  "pc": true,
+  "oldPrice": 19.99,
+  "newPrice": 19.99,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 13:26",
+  "pcAt": "2026-11-10 13:26",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
