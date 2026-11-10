@@ -2439,13 +2439,21 @@
  "B0GRXDWL34": {
   "pc": true,
   "oldPrice": 17.96,
-  "newPrice": 17.96,
+  "newPrice": 16.95,
   "done": false,
   "by": "Zimo",
-  "ts": "2026-11-10 14:31",
-  "pcAt": "2026-11-10 14:31",
+  "ts": "2026-11-10 14:32",
+  "pcAt": "2026-11-10 14:32",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 17.96,
+    "to": 16.95,
+    "at": "2026-11-10 14:32",
+    "by": "Zimo"
+   }
+  ]
  }
 }
