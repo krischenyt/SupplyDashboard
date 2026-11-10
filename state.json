@@ -3162,5 +3162,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B07L45XQBR": {
+  "pc": true,
+  "oldPrice": 33.55,
+  "newPrice": 33.55,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:43",
+  "pcAt": "2026-11-10 14:43",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
