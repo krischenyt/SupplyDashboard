@@ -49,12 +49,12 @@
   "ship": true,
   "status": "",
   "by": "Zimo",
-  "ts": "2026-11-10 10:54",
+  "ts": "2026-11-10 10:55",
   "reqAt": "2026-11-09 16:39",
   "reqBy": "?",
   "statusAt": "2026-11-09 16:39",
   "statusBy": "?",
-  "why": "promo",
+  "why": "DEAL后降价13.99预计30-50 目前promo9.9 100/day",
   "price": 9.99,
   "priceAt": "2026-11-09 16:40",
   "priceBy": "?",
@@ -74,7 +74,12 @@
     "at": "2026-11-10 10:54",
     "by": "Zimo"
    }
-  ]
+  ],
+  "mkt": "DEAL后降价13.99预计30-50 目前promo9.9 100/day",
+  "mktComment": "DEAL后降价13.99预计30-50 目前promo9.9 100/day",
+  "comment": "DEAL后降价13.99预计30-50 目前promo9.9 100/day",
+  "mktAt": "2026-11-10 10:55",
+  "mktBy": "Zimo"
  },
  "B0GN5MSNVT": {
   "ship": true,
