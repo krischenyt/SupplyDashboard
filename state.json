@@ -2806,13 +2806,21 @@
  "B0GN4NXLQS": {
   "pc": true,
   "oldPrice": 16.77,
-  "newPrice": 16.77,
+  "newPrice": 16.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:38",
   "pcAt": "2026-11-10 14:38",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 16.77,
+    "to": 16.99,
+    "at": "2026-11-10 14:38",
+    "by": "Zimo"
+   }
+  ]
  }
 }
