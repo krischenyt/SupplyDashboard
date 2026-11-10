@@ -741,5 +741,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0DK67ZTSP": {
+  "pc": true,
+  "oldPrice": 13.04,
+  "newPrice": 13.04,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 13:55",
+  "pcAt": "2026-11-10 13:55",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
