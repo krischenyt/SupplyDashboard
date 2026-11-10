@@ -1005,13 +1005,21 @@
  "B0GPR64239": {
   "pc": true,
   "oldPrice": 13.21,
-  "newPrice": 13.21,
+  "newPrice": 14.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:06",
   "pcAt": "2026-11-10 14:06",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 13.21,
+    "to": 14.99,
+    "at": "2026-11-10 14:06",
+    "by": "Zimo"
+   }
+  ]
  }
 }
