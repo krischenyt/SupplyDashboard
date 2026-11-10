@@ -1245,13 +1245,21 @@
  "B0FWJ2DKD9": {
   "pc": true,
   "oldPrice": 18.05,
-  "newPrice": 18.05,
+  "newPrice": 13.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:11",
   "pcAt": "2026-11-10 14:11",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 18.05,
+    "to": 13.99,
+    "at": "2026-11-10 14:11",
+    "by": "Zimo"
+   }
+  ]
  }
 }
