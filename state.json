@@ -56,6 +56,7 @@
   "statusBy": "?",
   "price": 9.99,
   "priceAt": "2026-11-09 16:41",
-  "priceBy": "?"
+  "priceBy": "?",
+  "why": "price"
  }
 }
