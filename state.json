@@ -2015,5 +2015,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B09BDNFL58": {
+  "pc": true,
+  "oldPrice": 21.37,
+  "newPrice": 21.37,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:27",
+  "pcAt": "2026-11-10 14:27",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
