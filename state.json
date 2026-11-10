@@ -2,7 +2,7 @@
  "B0CHX3CST7": {
   "mkNote": "",
   "by": "CL",
-  "ts": "2026-11-10 10:48",
+  "ts": "2026-11-10 10:49",
   "why": "",
   "ship": false,
   "status": "",
@@ -14,14 +14,21 @@
   "oldPrice": 21.72,
   "pcDec": "",
   "done": false,
-  "pcAt": "2026-11-10 10:48",
+  "pcAt": "2026-11-10 10:49",
   "pcBy": "CL",
   "doneAt": "",
   "doneBy": "",
-  "newPrice": 21.72,
+  "newPrice": 9.99,
   "pcDecAt": "2026-11-10 10:14",
   "pcDecBy": "CL",
-  "priceHistory": [],
+  "priceHistory": [
+   {
+    "from": 21.72,
+    "to": 9.99,
+    "at": "2026-11-10 10:49",
+    "by": "CL"
+   }
+  ],
   "supStatus": "",
   "supStatusAt": "",
   "supStatusBy": ""
