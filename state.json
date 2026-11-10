@@ -3426,13 +3426,21 @@
  "B0GFGXXSL8": {
   "pc": true,
   "oldPrice": 20.64,
-  "newPrice": 20.64,
+  "newPrice": 16.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:49",
   "pcAt": "2026-11-10 14:49",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 20.64,
+    "to": 16.99,
+    "at": "2026-11-10 14:49",
+    "by": "Zimo"
+   }
+  ]
  }
 }
