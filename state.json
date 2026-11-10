@@ -3462,5 +3462,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0G8823BHQ": {
+  "pc": true,
+  "oldPrice": 20.46,
+  "newPrice": 20.46,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-10 14:49",
+  "pcAt": "2026-11-10 14:49",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
