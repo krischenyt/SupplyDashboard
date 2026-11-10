@@ -68,6 +68,9 @@
   "reqAt": "2026-11-09 16:43",
   "reqBy": "?",
   "statusAt": "2026-11-09 16:43",
-  "statusBy": "?"
+  "statusBy": "?",
+  "price": 9.9,
+  "priceAt": "2026-11-09 16:43",
+  "priceBy": "?"
  }
 }
