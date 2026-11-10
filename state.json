@@ -1625,13 +1625,21 @@
  "B0FWH7V17F": {
   "pc": true,
   "oldPrice": 10.71,
-  "newPrice": 10.71,
+  "newPrice": 9.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-10 14:21",
   "pcAt": "2026-11-10 14:21",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 10.71,
+    "to": 9.99,
+    "at": "2026-11-10 14:21",
+    "by": "Zimo"
+   }
+  ]
  }
 }
