@@ -539,15 +539,21 @@
  "B0GDS357K4": {
   "pc": true,
   "oldPrice": 10.5,
-  "newPrice": 9.99,
+  "newPrice": 10,
   "done": false,
   "by": "Zimo",
-  "ts": "2026-11-10 13:38",
-  "pcAt": "2026-11-10 13:38",
+  "ts": "2026-11-10 14:35",
+  "pcAt": "2026-11-10 14:35",
   "pcBy": "Zimo",
   "doneAt": "",
   "doneBy": "",
   "priceHistory": [
+   {
+    "from": 9.99,
+    "to": 10,
+    "at": "2026-11-10 14:35",
+    "by": "Zimo"
+   },
    {
     "from": 10.5,
     "to": 9.99,
