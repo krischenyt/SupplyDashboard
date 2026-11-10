@@ -21,14 +21,7 @@
   "newPrice": 0,
   "pcDecAt": "2026-11-10 10:14",
   "pcDecBy": "CL",
-  "priceHistory": [
-   {
-    "from": 21.72,
-    "to": 9.99,
-    "at": "2026-11-10 10:49",
-    "by": "CL"
-   }
-  ],
+  "priceHistory": [],
   "supStatus": "",
   "supStatusAt": "",
   "supStatusBy": ""
