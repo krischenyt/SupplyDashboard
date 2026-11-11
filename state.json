@@ -3057,7 +3057,13 @@
   ],
   "ship": true,
   "reqAt": "2026-11-11 15:05",
-  "reqBy": "Olivia"
+  "reqBy": "Olivia",
+  "why": "现在9.9跑deal，100个/D。需要加速生产。",
+  "mkt": "现在9.9跑deal，100个/D。需要加速生产。",
+  "mktComment": "现在9.9跑deal，100个/D。需要加速生产。",
+  "comment": "现在9.9跑deal，100个/D。需要加速生产。",
+  "mktAt": "2026-11-11 15:05",
+  "mktBy": "Olivia"
  },
  "B0GN4KJM3S": {
   "pc": true,
