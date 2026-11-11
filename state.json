@@ -3695,5 +3695,17 @@
   "pcBy": "CL",
   "doneAt": "",
   "doneBy": ""
+ },
+ "B0GMYNZNF2": {
+  "pc": true,
+  "oldPrice": 11.87,
+  "newPrice": 11.87,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-11 11:07",
+  "pcAt": "2026-11-11 11:07",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
