@@ -84,13 +84,20 @@
   "mkNote": "DEAL 9.9卖到100+",
   "pc": true,
   "oldPrice": 22.86,
-  "newPrice": 22.86,
+  "newPrice": 13.99,
   "done": false,
   "pcAt": "2026-11-10 17:19",
   "pcBy": "Zimo",
   "doneAt": "",
   "doneBy": "",
-  "priceHistory": [],
+  "priceHistory": [
+   {
+    "from": 22.86,
+    "to": 13.99,
+    "at": "2026-11-10 17:19",
+    "by": "Zimo"
+   }
+  ],
   "mkt": "DEAL后降价13.99\n预计30-50 目前promo9.9 100/day",
   "mktComment": "DEAL后降价13.99\n预计30-50 目前promo9.9 100/day",
   "comment": "DEAL后降价13.99\n预计30-50 目前promo9.9 100/day",
