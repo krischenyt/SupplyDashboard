@@ -3021,8 +3021,8 @@
   "oldPrice": 26.25,
   "newPrice": 21.99,
   "done": false,
-  "by": "Zimo",
-  "ts": "2026-11-10 14:41",
+  "by": "Olivia",
+  "ts": "2026-11-11 15:10",
   "pcAt": "2026-11-10 14:41",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -3034,7 +3034,10 @@
     "at": "2026-11-10 14:41",
     "by": "Zimo"
    }
-  ]
+  ],
+  "ship": true,
+  "reqAt": "2026-11-11 15:10",
+  "reqBy": "Olivia"
  },
  "B0G625VHXN": {
   "pc": true,
