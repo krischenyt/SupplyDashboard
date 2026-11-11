@@ -286,7 +286,7 @@
   "ship": true,
   "status": "",
   "by": "Rico",
-  "ts": "2026-11-10 17:26",
+  "ts": "2026-11-10 17:34",
   "reqAt": "2026-11-10 09:37",
   "reqBy": "Paris Z",
   "statusAt": "2026-11-10 09:37",
@@ -316,7 +316,11 @@
   "mktBy": "CL",
   "supStatus": "已發貨",
   "supStatusAt": "2026-11-10 17:26",
-  "supStatusBy": "Rico"
+  "supStatusBy": "Rico",
+  "supComment": "排了2000 预计",
+  "sup": "排了2000 预计",
+  "supAt": "2026-11-10 17:34",
+  "supBy": "Rico"
  },
  "B0F3GFTM5J": {
   "pc": true,
