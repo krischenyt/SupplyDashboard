@@ -3649,8 +3649,14 @@
  "B0G2N6TFRD": {
   "pc": true,
   "oldPrice": 29.12,
-  "newPrice": 29.11,
+  "newPrice": 29.99,
   "priceHistory": [
+   {
+    "from": 29.11,
+    "to": 29.99,
+    "at": "2026-11-10 16:31",
+    "by": "CL"
+   },
    {
     "from": 29.12,
     "to": 29.11,
