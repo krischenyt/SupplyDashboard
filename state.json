@@ -171,11 +171,11 @@
     "by": "Zimo"
    }
   ],
-  "done": false,
+  "done": true,
   "pcAt": "2026-11-10 10:56",
   "pcBy": "Zimo",
-  "doneAt": "",
-  "doneBy": "",
+  "doneAt": "2026-11-10 17:21",
+  "doneBy": "Rico",
   "mkt": "降价13.99 45/day 目前9.99 promo 100+/day",
   "mktComment": "降价13.99 45/day 目前9.99 promo 100+/day",
   "comment": "降价13.99 45/day 目前9.99 promo 100+/day",
@@ -184,7 +184,10 @@
   "supComment": "PO pending",
   "sup": "PO pending",
   "supAt": "2026-11-10 17:21",
-  "supBy": "Rico"
+  "supBy": "Rico",
+  "supStatus": "已發貨",
+  "supStatusAt": "2026-11-10 17:21",
+  "supStatusBy": "Rico"
  },
  "B0G67LX6V5": {
   "ship": true,
