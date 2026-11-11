@@ -193,7 +193,7 @@
   "ship": true,
   "status": "",
   "by": "Rico",
-  "ts": "2026-11-10 17:40",
+  "ts": "2026-11-10 17:41",
   "reqAt": "2026-11-09 17:20",
   "reqBy": "Zimo",
   "statusAt": "2026-11-09 17:20",
@@ -227,7 +227,10 @@
   "supComment": "下个生产只做2132 是否加产？",
   "sup": "下个生产只做2132 是否加产？",
   "supAt": "2026-11-10 17:40",
-  "supBy": "Rico"
+  "supBy": "Rico",
+  "supStatus": "待生產",
+  "supStatusAt": "2026-11-10 17:41",
+  "supStatusBy": "Rico"
  },
  "B0HJ6X78VT": {
   "mkNote": "TT视频，从100+/day涨到200+/day",
