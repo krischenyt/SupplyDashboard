@@ -2482,7 +2482,13 @@
   ],
   "ship": true,
   "reqAt": "2026-11-11 11:05",
-  "reqBy": "Zimo"
+  "reqBy": "Zimo",
+  "why": "降价16.99卖 销量持续上升 40+/day",
+  "mkt": "降价16.99卖 销量持续上升 40+/day",
+  "mktComment": "降价16.99卖 销量持续上升 40+/day",
+  "comment": "降价16.99卖 销量持续上升 40+/day",
+  "mktAt": "2026-11-11 11:05",
+  "mktBy": "Zimo"
  },
  "B0GRXDWL34": {
   "pc": true,
