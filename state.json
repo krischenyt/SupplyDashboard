@@ -71,8 +71,8 @@
  "B0GN3P9LCM": {
   "ship": true,
   "status": "",
-  "by": "Rico",
-  "ts": "2026-11-10 15:16",
+  "by": "Zimo",
+  "ts": "2026-11-10 17:19",
   "reqAt": "2026-11-09 16:39",
   "reqBy": "?",
   "statusAt": "2026-11-09 16:39",
@@ -82,22 +82,15 @@
   "priceAt": "2026-11-09 16:40",
   "priceBy": "?",
   "mkNote": "DEAL 9.9卖到100+",
-  "pc": true,
+  "pc": false,
   "oldPrice": 22.86,
-  "newPrice": 16.99,
+  "newPrice": 0,
   "done": true,
   "pcAt": "2026-11-10 10:54",
   "pcBy": "Zimo",
   "doneAt": "2026-11-10 15:16",
   "doneBy": "Rico",
-  "priceHistory": [
-   {
-    "from": 22.86,
-    "to": 16.99,
-    "at": "2026-11-10 10:54",
-    "by": "Zimo"
-   }
-  ],
+  "priceHistory": [],
   "mkt": "DEAL后降价13.99\n预计30-50 目前promo9.9 100/day",
   "mktComment": "DEAL后降价13.99\n预计30-50 目前promo9.9 100/day",
   "comment": "DEAL后降价13.99\n预计30-50 目前promo9.9 100/day",
