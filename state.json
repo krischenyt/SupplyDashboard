@@ -285,8 +285,8 @@
  "B0G2MXVWM8": {
   "ship": true,
   "status": "",
-  "by": "CL",
-  "ts": "2026-11-10 14:59",
+  "by": "Rico",
+  "ts": "2026-11-10 17:26",
   "reqAt": "2026-11-10 09:37",
   "reqBy": "Paris Z",
   "statusAt": "2026-11-10 09:37",
@@ -304,16 +304,19 @@
     "by": "CL"
    }
   ],
-  "done": false,
+  "done": true,
   "pcAt": "2026-11-10 13:24",
   "pcBy": "CL",
-  "doneAt": "",
-  "doneBy": "",
+  "doneAt": "2026-11-10 17:26",
+  "doneBy": "Rico",
   "mkt": "DEAL 13.99賣60+/day, 結束後直接13.99預期能賣30+/day",
   "mktComment": "DEAL 13.99賣60+/day, 結束後直接13.99預期能賣30+/day",
   "comment": "DEAL 13.99賣60+/day, 結束後直接13.99預期能賣30+/day",
   "mktAt": "2026-11-10 14:59",
-  "mktBy": "CL"
+  "mktBy": "CL",
+  "supStatus": "已發貨",
+  "supStatusAt": "2026-11-10 17:26",
+  "supStatusBy": "Rico"
  },
  "B0F3GFTM5J": {
   "pc": true,
