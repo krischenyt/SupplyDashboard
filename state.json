@@ -149,8 +149,8 @@
  "B0G2MWSJTY": {
   "ship": true,
   "status": "",
-  "by": "Zimo",
-  "ts": "2026-11-10 10:57",
+  "by": "Rico",
+  "ts": "2026-11-10 17:21",
   "reqAt": "2026-11-09 16:43",
   "reqBy": "?",
   "statusAt": "2026-11-09 16:43",
@@ -180,7 +180,11 @@
   "mktComment": "降价13.99 45/day 目前9.99 promo 100+/day",
   "comment": "降价13.99 45/day 目前9.99 promo 100+/day",
   "mktAt": "2026-11-10 10:57",
-  "mktBy": "Zimo"
+  "mktBy": "Zimo",
+  "supComment": "PO pending",
+  "sup": "PO pending",
+  "supAt": "2026-11-10 17:21",
+  "supBy": "Rico"
  },
  "B0G67LX6V5": {
   "ship": true,
