@@ -2611,7 +2611,7 @@
   "newPrice": 16.99,
   "done": false,
   "by": "Jackson",
-  "ts": "2026-11-11 23:56",
+  "ts": "2026-11-11 23:57",
   "pcAt": "2026-11-10 14:33",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -2626,7 +2626,13 @@
   ],
   "ship": true,
   "reqAt": "2026-11-11 23:56",
-  "reqBy": "Jackson"
+  "reqBy": "Jackson",
+  "why": "JC:2000的货发过来跑一下",
+  "mkt": "JC:2000的货发过来跑一下",
+  "mktComment": "JC:2000的货发过来跑一下",
+  "comment": "JC:2000的货发过来跑一下",
+  "mktAt": "2026-11-11 23:57",
+  "mktBy": "Jackson"
  },
  "B0G2N4TH7Z": {
   "pc": true,
