@@ -3792,6 +3792,19 @@
   "mktComment": "想继续用T12拉一下 正在跑9.9 建议发个3000",
   "comment": "想继续用T12拉一下 正在跑9.9 建议发个3000",
   "mktAt": "2026-11-11 22:35",
-  "mktBy": "Jackson"
+  "mktBy": "Jackson",
+  "pc": true,
+  "oldPrice": 16.89,
+  "newPrice": 16.9,
+  "priceHistory": [
+   {
+    "from": 16.89,
+    "to": 16.9,
+    "at": "2026-11-11 22:35",
+    "by": "Jackson"
+   }
+  ],
+  "pcAt": "2026-11-11 22:35",
+  "pcBy": "Jackson"
  }
 }
