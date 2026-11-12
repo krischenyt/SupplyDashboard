@@ -3795,8 +3795,14 @@
   "mktBy": "Jackson",
   "pc": true,
   "oldPrice": 16.89,
-  "newPrice": 16.9,
+  "newPrice": 13.99,
   "priceHistory": [
+   {
+    "from": 16.9,
+    "to": 13.99,
+    "at": "2026-11-11 22:35",
+    "by": "Jackson"
+   },
    {
     "from": 16.89,
     "to": 16.9,
