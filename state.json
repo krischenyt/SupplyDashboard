@@ -2610,8 +2610,8 @@
   "oldPrice": 16.61,
   "newPrice": 16.99,
   "done": false,
-  "by": "Zimo",
-  "ts": "2026-11-10 14:33",
+  "by": "Jackson",
+  "ts": "2026-11-11 23:56",
   "pcAt": "2026-11-10 14:33",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -2623,7 +2623,10 @@
     "at": "2026-11-10 14:33",
     "by": "Zimo"
    }
-  ]
+  ],
+  "ship": true,
+  "reqAt": "2026-11-11 23:56",
+  "reqBy": "Jackson"
  },
  "B0G2N4TH7Z": {
   "pc": true,
