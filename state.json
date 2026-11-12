@@ -2068,7 +2068,13 @@
   ],
   "ship": true,
   "reqAt": "2026-11-11 22:39",
-  "reqBy": "Jackson"
+  "reqBy": "Jackson",
+  "why": "JC：再给我2000差不多 跑T12 9.9",
+  "mkt": "JC：再给我2000差不多 跑T12 9.9",
+  "mktComment": "JC：再给我2000差不多 跑T12 9.9",
+  "comment": "JC：再给我2000差不多 跑T12 9.9",
+  "mktAt": "2026-11-11 22:39",
+  "mktBy": "Jackson"
  },
  "B09BDNFL58": {
   "pc": true,
