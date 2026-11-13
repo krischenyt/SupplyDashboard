@@ -2544,12 +2544,9 @@
     "by": "Zimo"
    }
   ],
-  "why": "这个是benfo 商品名称写错了 降价13.99销售 40/day 可以多发货",
-  "mkt": "这个是benfo 商品名称写错了 降价13.99销售 40/day 可以多发货",
-  "mktComment": "这个是benfo 商品名称写错了 降价13.99销售 40/day 可以多发货",
-  "comment": "这个是benfo 商品名称写错了 降价13.99销售 40/day 可以多发货",
-  "mktAt": "2026-11-13 13:11",
-  "mktBy": "Zimo"
+  "ship": true,
+  "reqAt": "2026-11-13 13:11",
+  "reqBy": "Zimo"
  },
  "B0G67BZNYN": {
   "pc": true,
