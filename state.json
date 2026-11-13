@@ -3767,8 +3767,8 @@
  "B0G31N7VWX": {
   "ship": true,
   "done": false,
-  "by": "Olivia",
-  "ts": "2026-11-11 15:08",
+  "by": "Rico",
+  "ts": "2026-11-12 16:24",
   "reqAt": "2026-11-11 15:08",
   "reqBy": "Olivia",
   "doneAt": "",
@@ -3778,7 +3778,10 @@
   "mktComment": "原价19.99在卖，20/D，需要发货和加急生产。",
   "comment": "原价19.99在卖，20/D，需要发货和加急生产。",
   "mktAt": "2026-11-11 15:08",
-  "mktBy": "Olivia"
+  "mktBy": "Olivia",
+  "supStatus": "待生產",
+  "supStatusAt": "2026-11-12 16:24",
+  "supStatusBy": "Rico"
  },
  "B0FJ477YCV": {
   "ship": true,
