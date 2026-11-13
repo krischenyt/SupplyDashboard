@@ -2531,7 +2531,7 @@
   "newPrice": 13.99,
   "done": false,
   "by": "Zimo",
-  "ts": "2026-11-13 13:11",
+  "ts": "2026-11-13 13:12",
   "pcAt": "2026-11-10 14:32",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -2546,7 +2546,13 @@
   ],
   "ship": true,
   "reqAt": "2026-11-13 13:11",
-  "reqBy": "Zimo"
+  "reqBy": "Zimo",
+  "why": "这个是benfo 商品名称登记错了 降价13.99销售 可以多发货 40/day",
+  "mkt": "这个是benfo 商品名称登记错了 降价13.99销售 可以多发货 40/day",
+  "mktComment": "这个是benfo 商品名称登记错了 降价13.99销售 可以多发货 40/day",
+  "comment": "这个是benfo 商品名称登记错了 降价13.99销售 可以多发货 40/day",
+  "mktAt": "2026-11-13 13:12",
+  "mktBy": "Zimo"
  },
  "B0G67BZNYN": {
   "pc": true,
