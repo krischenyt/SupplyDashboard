@@ -3849,5 +3849,25 @@
   "comment": "JC:还需要3000，能跑的这个品",
   "mktAt": "2026-11-11 23:12",
   "mktBy": "Jackson"
+ },
+ "B0FWJCNC61": {
+  "pc": true,
+  "oldPrice": 11.36,
+  "newPrice": 9.99,
+  "priceHistory": [
+   {
+    "from": 11.36,
+    "to": 9.99,
+    "at": "2026-11-13 12:07",
+    "by": "CL"
+   }
+  ],
+  "done": false,
+  "by": "CL",
+  "ts": "2026-11-13 12:07",
+  "pcAt": "2026-11-13 12:07",
+  "pcBy": "CL",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
