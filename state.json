@@ -2275,7 +2275,13 @@
   ],
   "ship": true,
   "reqAt": "2026-11-16 11:22",
-  "reqBy": "Olivia"
+  "reqBy": "Olivia",
+  "why": "9.9做deal能卖五六个/D，可以发点货和备货，便于参加下次deal。",
+  "mkt": "9.9做deal能卖五六个/D，可以发点货和备货，便于参加下次deal。",
+  "mktComment": "9.9做deal能卖五六个/D，可以发点货和备货，便于参加下次deal。",
+  "comment": "9.9做deal能卖五六个/D，可以发点货和备货，便于参加下次deal。",
+  "mktAt": "2026-11-16 11:22",
+  "mktBy": "Olivia"
  },
  "B0GVVPMRS2": {
   "pc": true,
