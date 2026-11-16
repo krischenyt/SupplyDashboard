@@ -2679,15 +2679,21 @@
  "B0GSCGGFRP": {
   "pc": true,
   "oldPrice": 16.61,
-  "newPrice": 16.99,
+  "newPrice": 13.99,
   "done": false,
-  "by": "Jackson",
-  "ts": "2026-11-11 23:57",
-  "pcAt": "2026-11-10 14:33",
+  "by": "Zimo",
+  "ts": "2026-11-16 13:54",
+  "pcAt": "2026-11-16 13:54",
   "pcBy": "Zimo",
   "doneAt": "",
   "doneBy": "",
   "priceHistory": [
+   {
+    "from": 16.99,
+    "to": 13.99,
+    "at": "2026-11-16 13:54",
+    "by": "Zimo"
+   },
    {
     "from": 16.61,
     "to": 16.99,
