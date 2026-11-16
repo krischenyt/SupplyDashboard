@@ -3844,7 +3844,7 @@
   "ship": true,
   "done": false,
   "by": "Rico",
-  "ts": "2026-11-16 13:24",
+  "ts": "2026-11-16 13:27",
   "reqAt": "2026-11-11 15:21",
   "reqBy": "Olivia",
   "doneAt": "",
@@ -3857,7 +3857,11 @@
   "mktBy": "Olivia",
   "supStatus": "待生產",
   "supStatusAt": "2026-11-16 13:24",
-  "supStatusBy": "Rico"
+  "supStatusBy": "Rico",
+  "supComment": "原料ETP 11/21 ",
+  "sup": "原料ETP 11/21 ",
+  "supAt": "2026-11-16 13:27",
+  "supBy": "Rico"
  },
  "B0FWHW4HDL": {
   "ship": true,
