@@ -2509,7 +2509,7 @@
   "newPrice": 16.99,
   "done": false,
   "by": "Rico",
-  "ts": "2026-11-16 12:18",
+  "ts": "2026-11-16 13:17",
   "pcAt": "2026-11-10 14:31",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -2533,7 +2533,11 @@
   "mktBy": "Zimo",
   "supStatus": "待生產",
   "supStatusAt": "2026-11-16 12:18",
-  "supStatusBy": "Rico"
+  "supStatusBy": "Rico",
+  "supComment": "目前 PO只有 2000\n下一批看原料是否在4.0前加产",
+  "sup": "目前 PO只有 2000\n下一批看原料是否在4.0前加产",
+  "supAt": "2026-11-16 13:17",
+  "supBy": "Rico"
  },
  "B0GRXDWL34": {
   "pc": true,
