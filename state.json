@@ -4063,5 +4063,17 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0G62WQXJZ": {
+  "pc": true,
+  "oldPrice": 11.04,
+  "newPrice": 11.04,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-16 13:52",
+  "pcAt": "2026-11-16 13:52",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
