@@ -1169,7 +1169,13 @@
   ],
   "ship": true,
   "reqAt": "2026-11-16 14:47",
-  "reqBy": "Paris Z"
+  "reqBy": "Paris Z",
+  "why": "降价之后销量有上涨到",
+  "mkt": "降价之后销量有上涨到",
+  "mktComment": "降价之后销量有上涨到",
+  "comment": "降价之后销量有上涨到",
+  "mktAt": "2026-11-16 14:47",
+  "mktBy": "Paris Z"
  },
  "B0GSCYZDPC": {
   "pc": true,
