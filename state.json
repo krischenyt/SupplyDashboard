@@ -1763,7 +1763,7 @@
   "newPrice": 13.99,
   "done": false,
   "by": "Rico",
-  "ts": "2026-11-16 15:31",
+  "ts": "2026-11-16 15:32",
   "pcAt": "2026-11-10 14:22",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -1788,7 +1788,10 @@
   "supComment": "MC剩余的1900\n下一个生产4.0，是否提前？",
   "sup": "MC剩余的1900\n下一个生产4.0，是否提前？",
   "supAt": "2026-11-16 15:31",
-  "supBy": "Rico"
+  "supBy": "Rico",
+  "supStatus": "待生產",
+  "supStatusAt": "2026-11-16 15:32",
+  "supStatusBy": "Rico"
  },
  "B0G87JDKST": {
   "pc": true,
