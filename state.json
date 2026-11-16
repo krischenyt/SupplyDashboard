@@ -412,15 +412,21 @@
  "B0G2N6TNJL": {
   "pc": true,
   "oldPrice": 16,
-  "newPrice": 13.99,
+  "newPrice": 9.99,
   "done": false,
   "by": "Zimo",
-  "ts": "2026-11-10 13:25",
-  "pcAt": "2026-11-10 13:25",
+  "ts": "2026-11-16 10:58",
+  "pcAt": "2026-11-16 10:58",
   "pcBy": "Zimo",
   "doneAt": "",
   "doneBy": "",
   "priceHistory": [
+   {
+    "from": 13.99,
+    "to": 9.99,
+    "at": "2026-11-16 10:58",
+    "by": "Zimo"
+   },
    {
     "from": 16,
     "to": 13.99,
