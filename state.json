@@ -3963,5 +3963,25 @@
   "supStatus": "已發貨",
   "supStatusAt": "2026-11-16 13:23",
   "supStatusBy": "Rico"
+ },
+ "B0CVTTDTP9": {
+  "pc": true,
+  "oldPrice": 18.49,
+  "newPrice": 18.48,
+  "priceHistory": [
+   {
+    "from": 18.49,
+    "to": 18.48,
+    "at": "2026-11-16 13:46",
+    "by": "CL"
+   }
+  ],
+  "done": false,
+  "by": "CL",
+  "ts": "2026-11-16 13:46",
+  "pcAt": "2026-11-16 13:46",
+  "pcBy": "CL",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
