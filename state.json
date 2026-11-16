@@ -4003,5 +4003,25 @@
   "pcBy": "CL",
   "doneAt": "",
   "doneBy": ""
+ },
+ "B0F3GF9G1H": {
+  "pc": true,
+  "oldPrice": 12.11,
+  "newPrice": 13.99,
+  "priceHistory": [
+   {
+    "from": 12.11,
+    "to": 13.99,
+    "at": "2026-11-16 13:46",
+    "by": "CL"
+   }
+  ],
+  "done": false,
+  "by": "CL",
+  "ts": "2026-11-16 13:46",
+  "pcAt": "2026-11-16 13:46",
+  "pcBy": "CL",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
