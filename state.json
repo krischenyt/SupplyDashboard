@@ -439,7 +439,10 @@
   "mktComment": "降价9.99销售 一天50/day 需要多发货/备货",
   "comment": "降价9.99销售 一天50/day 需要多发货/备货",
   "mktAt": "2026-11-16 10:59",
-  "mktBy": "Zimo"
+  "mktBy": "Zimo",
+  "ship": true,
+  "reqAt": "2026-11-16 10:59",
+  "reqBy": "Zimo"
  },
  "B0FWGTM3ND": {
   "pc": true,
