@@ -3965,17 +3965,10 @@
   "supStatusBy": "Rico"
  },
  "B0CVTTDTP9": {
-  "pc": true,
+  "pc": false,
   "oldPrice": 18.49,
-  "newPrice": 18.48,
-  "priceHistory": [
-   {
-    "from": 18.49,
-    "to": 18.48,
-    "at": "2026-11-16 13:46",
-    "by": "CL"
-   }
-  ],
+  "newPrice": 0,
+  "priceHistory": [],
   "done": false,
   "by": "CL",
   "ts": "2026-11-16 13:46",
