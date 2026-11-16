@@ -1742,7 +1742,7 @@
   "newPrice": 13.99,
   "done": false,
   "by": "Rico",
-  "ts": "2026-11-16 13:29",
+  "ts": "2026-11-16 13:30",
   "pcAt": "2026-11-10 14:22",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -1764,9 +1764,9 @@
   "ship": true,
   "reqAt": "2026-11-15 22:06",
   "reqBy": "Jackson",
-  "supComment": "这个有4700库存先跑？",
-  "sup": "这个有4700库存先跑？",
-  "supAt": "2026-11-16 13:29",
+  "supComment": "",
+  "sup": "",
+  "supAt": "2026-11-16 13:30",
   "supBy": "Rico"
  },
  "B0G87JDKST": {
