@@ -4043,5 +4043,17 @@
   "pcBy": "CL",
   "doneAt": "",
   "doneBy": ""
+ },
+ "B0G1CY7BXX": {
+  "pc": true,
+  "oldPrice": 19.55,
+  "newPrice": 19.55,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-16 13:52",
+  "pcAt": "2026-11-16 13:52",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
