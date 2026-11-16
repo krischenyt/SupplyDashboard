@@ -1147,8 +1147,8 @@
   "oldPrice": 18.12,
   "newPrice": 13.99,
   "done": false,
-  "by": "Zimo",
-  "ts": "2026-11-16 13:53",
+  "by": "Paris Z",
+  "ts": "2026-11-16 14:47",
   "pcAt": "2026-11-16 13:53",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -1166,7 +1166,10 @@
     "at": "2026-11-10 14:08",
     "by": "Zimo"
    }
-  ]
+  ],
+  "ship": true,
+  "reqAt": "2026-11-16 14:47",
+  "reqBy": "Paris Z"
  },
  "B0GSCYZDPC": {
   "pc": true,
