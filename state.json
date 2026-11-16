@@ -3854,13 +3854,13 @@
  },
  "B0FWHW4HDL": {
   "ship": true,
-  "done": false,
-  "by": "Jackson",
-  "ts": "2026-11-11 22:35",
+  "done": true,
+  "by": "Rico",
+  "ts": "2026-11-16 13:16",
   "reqAt": "2026-11-11 22:34",
   "reqBy": "Jackson",
-  "doneAt": "",
-  "doneBy": "",
+  "doneAt": "2026-11-16 13:16",
+  "doneBy": "Rico",
   "why": "想继续用T12拉一下 正在跑9.9 建议发个3000",
   "mkt": "想继续用T12拉一下 正在跑9.9 建议发个3000",
   "mktComment": "想继续用T12拉一下 正在跑9.9 建议发个3000",
@@ -3885,7 +3885,10 @@
    }
   ],
   "pcAt": "2026-11-11 22:35",
-  "pcBy": "Jackson"
+  "pcBy": "Jackson",
+  "supStatus": "已發貨",
+  "supStatusAt": "2026-11-16 13:16",
+  "supStatusBy": "Rico"
  },
  "B0FKD3M8QQ": {
   "ship": true,
