@@ -2428,15 +2428,21 @@
  "B0H6KFXD3L": {
   "pc": true,
   "oldPrice": 17.14,
-  "newPrice": 13.99,
+  "newPrice": 9.99,
   "done": false,
   "by": "Zimo",
-  "ts": "2026-11-10 14:31",
-  "pcAt": "2026-11-10 14:31",
+  "ts": "2026-11-16 13:53",
+  "pcAt": "2026-11-16 13:53",
   "pcBy": "Zimo",
   "doneAt": "",
   "doneBy": "",
   "priceHistory": [
+   {
+    "from": 13.99,
+    "to": 9.99,
+    "at": "2026-11-16 13:53",
+    "by": "Zimo"
+   },
    {
     "from": 17.14,
     "to": 13.99,
