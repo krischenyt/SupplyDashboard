@@ -1726,8 +1726,8 @@
   "oldPrice": 17.24,
   "newPrice": 13.99,
   "done": false,
-  "by": "CL",
-  "ts": "2026-11-11 11:30",
+  "by": "Jackson",
+  "ts": "2026-11-15 22:06",
   "pcAt": "2026-11-10 14:22",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -1745,7 +1745,10 @@
   "mktComment": "降了售價13.99後平時能賣40-50/day, deal 9.9日銷130+",
   "comment": "降了售價13.99後平時能賣40-50/day, deal 9.9日銷130+",
   "mktAt": "2026-11-11 11:30",
-  "mktBy": "CL"
+  "mktBy": "CL",
+  "ship": true,
+  "reqAt": "2026-11-15 22:06",
+  "reqBy": "Jackson"
  },
  "B0G87JDKST": {
   "pc": true,
