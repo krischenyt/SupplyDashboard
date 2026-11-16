@@ -2259,8 +2259,8 @@
   "oldPrice": 15.85,
   "newPrice": 13.99,
   "done": false,
-  "by": "Zimo",
-  "ts": "2026-11-10 14:29",
+  "by": "Olivia",
+  "ts": "2026-11-16 11:22",
   "pcAt": "2026-11-10 14:29",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -2272,7 +2272,10 @@
     "at": "2026-11-10 14:29",
     "by": "Zimo"
    }
-  ]
+  ],
+  "ship": true,
+  "reqAt": "2026-11-16 11:22",
+  "reqBy": "Olivia"
  },
  "B0GVVPMRS2": {
   "pc": true,
