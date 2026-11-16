@@ -3936,18 +3936,21 @@
  },
  "B0FNYD1SVT": {
   "ship": true,
-  "done": false,
-  "by": "Olivia",
-  "ts": "2026-11-16 11:04",
+  "done": true,
+  "by": "Rico",
+  "ts": "2026-11-16 13:23",
   "reqAt": "2026-11-16 11:04",
   "reqBy": "Olivia",
-  "doneAt": "",
-  "doneBy": "",
+  "doneAt": "2026-11-16 13:23",
+  "doneBy": "Rico",
   "why": "15.99做deal能卖70-100个/D，可以发货和备货",
   "mkt": "15.99做deal能卖70-100个/D，可以发货和备货",
   "mktComment": "15.99做deal能卖70-100个/D，可以发货和备货",
   "comment": "15.99做deal能卖70-100个/D，可以发货和备货",
   "mktAt": "2026-11-16 11:04",
-  "mktBy": "Olivia"
+  "mktBy": "Olivia",
+  "supStatus": "已發貨",
+  "supStatusAt": "2026-11-16 13:23",
+  "supStatusBy": "Rico"
  }
 }
