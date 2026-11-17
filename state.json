@@ -4223,5 +4223,16 @@
     "by": "Zimo"
    }
   ]
+ },
+ "B0GFHCCTH6": {
+  "ship": true,
+  "done": false,
+  "by": "Olivia",
+  "ts": "2026-11-17 14:00",
+  "reqAt": "2026-11-17 14:00",
+  "reqBy": "Olivia",
+  "shipEventId": "ship-B0GFHCCTH6-mwl8kqil-52c9n",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
