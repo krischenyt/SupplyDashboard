@@ -2299,13 +2299,13 @@
   "pc": true,
   "oldPrice": 15.85,
   "newPrice": 13.99,
-  "done": false,
-  "by": "Olivia",
-  "ts": "2026-11-16 11:22",
+  "done": true,
+  "by": "Rico",
+  "ts": "2026-11-16 18:11",
   "pcAt": "2026-11-10 14:29",
   "pcBy": "Zimo",
-  "doneAt": "",
-  "doneBy": "",
+  "doneAt": "2026-11-16 18:11",
+  "doneBy": "Rico",
   "priceHistory": [
    {
     "from": 15.85,
@@ -2322,7 +2322,10 @@
   "mktComment": "9.9做deal能卖五六个/D，可以发点货和备货，便于参加下次deal。",
   "comment": "9.9做deal能卖五六个/D，可以发点货和备货，便于参加下次deal。",
   "mktAt": "2026-11-16 11:22",
-  "mktBy": "Olivia"
+  "mktBy": "Olivia",
+  "supStatus": "已發貨",
+  "supStatusAt": "2026-11-16 18:11",
+  "supStatusBy": "Rico"
  },
  "B0GVVPMRS2": {
   "pc": true,
