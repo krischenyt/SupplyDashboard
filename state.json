@@ -1161,8 +1161,8 @@
   "oldPrice": 18.12,
   "newPrice": 13.99,
   "done": false,
-  "by": "Paris Z",
-  "ts": "2026-11-16 14:47",
+  "by": "Rico",
+  "ts": "2026-11-16 18:38",
   "pcAt": "2026-11-16 13:53",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -1189,7 +1189,11 @@
   "mktComment": "降价之后销量有上涨到20+/day；但是不跑BFCM",
   "comment": "降价之后销量有上涨到20+/day；但是不跑BFCM",
   "mktAt": "2026-11-16 14:47",
-  "mktBy": "Paris Z"
+  "mktBy": "Paris Z",
+  "supComment": "安排2000个 月底可售",
+  "sup": "安排2000个 月底可售",
+  "supAt": "2026-11-16 18:38",
+  "supBy": "Rico"
  },
  "B0GSCYZDPC": {
   "pc": true,
