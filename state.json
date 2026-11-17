@@ -3034,13 +3034,13 @@
   "pc": true,
   "oldPrice": 12.44,
   "newPrice": 9.99,
-  "done": false,
-  "by": "Olivia",
-  "ts": "2026-11-16 14:02",
+  "done": true,
+  "by": "Rico",
+  "ts": "2026-11-16 18:09",
   "pcAt": "2026-11-10 14:39",
   "pcBy": "Zimo",
-  "doneAt": "",
-  "doneBy": "",
+  "doneAt": "2026-11-16 18:09",
+  "doneBy": "Rico",
   "priceHistory": [
    {
     "from": 12.44,
@@ -3057,7 +3057,10 @@
   "mktBy": "Olivia",
   "ship": true,
   "reqAt": "2026-11-16 14:02",
-  "reqBy": "Olivia"
+  "reqBy": "Olivia",
+  "supStatus": "已發貨",
+  "supStatusAt": "2026-11-16 18:09",
+  "supStatusBy": "Rico"
  },
  "B0GT1YJ8RD": {
   "pc": true,
