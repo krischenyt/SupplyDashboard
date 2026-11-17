@@ -3925,8 +3925,8 @@
   "supStatus": "待生產",
   "supStatusAt": "2026-11-12 16:24",
   "supStatusBy": "Rico",
-  "supComment": "库存176 安排发走，下一个生产ETP 11/9后卖完DC？",
-  "sup": "库存176 安排发走，下一个生产ETP 11/9后卖完DC？",
+  "supComment": "库存176 安排发走，下一个生产ETP 11/9",
+  "sup": "库存176 安排发走，下一个生产ETP 11/9",
   "supAt": "2026-11-16 18:29",
   "supBy": "Rico"
  },
