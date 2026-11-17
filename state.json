@@ -830,7 +830,7 @@
   "newPrice": 9.99,
   "done": false,
   "by": "Olivia",
-  "ts": "2026-11-17 14:46",
+  "ts": "2026-11-17 14:47",
   "pcAt": "2026-11-10 13:55",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -846,7 +846,33 @@
   "ship": true,
   "reqAt": "2026-11-17 14:46",
   "reqBy": "Olivia",
-  "shipEventId": "ship-B0DK67ZTSP-mwla7ufw-x6hqi"
+  "shipEventId": "ship-B0DK67ZTSP-mwla7ufw-x6hqi",
+  "threads": [
+   {
+    "id": "tmwla9hgpq98ik0",
+    "title": "list price降到9.99后销量上涨，30个/D，还能坚持三十多天，需要备货发货",
+    "created": "2026-11-17 14:47",
+    "by": "Olivia",
+    "closed": false,
+    "messages": []
+   },
+   {
+    "id": "legacy-B0DK67ZTSP",
+    "title": "歷史備註（舊版匯入）",
+    "created": "2026-11-17 14:46",
+    "by": "Olivia",
+    "closed": true,
+    "messages": [
+     {
+      "id": "tmwla9hgpn4qlkf",
+      "role": "Marketing",
+      "by": "Olivia",
+      "at": "2026-11-17 14:46",
+      "text": "ship-B0DK67ZTSP-mwla7ufw-x6hqi"
+     }
+    ]
+   }
+  ]
  },
  "B0F3B3Y86P": {
   "pc": true,
