@@ -2721,7 +2721,7 @@
   "newPrice": 13.99,
   "done": true,
   "by": "Rico",
-  "ts": "2026-11-16 18:19",
+  "ts": "2026-11-16 18:21",
   "pcAt": "2026-11-16 13:54",
   "pcBy": "Zimo",
   "doneAt": "2026-11-16 18:19",
@@ -2751,7 +2751,11 @@
   "mktBy": "Jackson",
   "supStatus": "已發貨",
   "supStatusAt": "2026-11-16 18:19",
-  "supStatusBy": "Rico"
+  "supStatusBy": "Rico",
+  "supComment": "11/22送 月底可售",
+  "sup": "11/22送 月底可售",
+  "supAt": "2026-11-16 18:21",
+  "supBy": "Rico"
  },
  "B0G2N4TH7Z": {
   "pc": true,
