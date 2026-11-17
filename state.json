@@ -413,13 +413,13 @@
   "pc": true,
   "oldPrice": 16,
   "newPrice": 9.99,
-  "done": false,
+  "done": true,
   "by": "Rico",
-  "ts": "2026-11-16 16:46",
+  "ts": "2026-11-16 16:47",
   "pcAt": "2026-11-16 10:58",
   "pcBy": "Zimo",
-  "doneAt": "",
-  "doneBy": "",
+  "doneAt": "2026-11-16 16:47",
+  "doneBy": "Rico",
   "priceHistory": [
    {
     "from": 13.99,
@@ -446,7 +446,10 @@
   "supComment": "安排过672，AMZ total 2400，下一个PO目前做 3000.",
   "sup": "安排过672，AMZ total 2400，下一个PO目前做 3000.",
   "supAt": "2026-11-16 16:46",
-  "supBy": "Rico"
+  "supBy": "Rico",
+  "supStatus": "已發貨",
+  "supStatusAt": "2026-11-16 16:47",
+  "supStatusBy": "Rico"
  },
  "B0FWGTM3ND": {
   "pc": true,
