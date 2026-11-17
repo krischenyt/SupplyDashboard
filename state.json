@@ -264,8 +264,8 @@
  "B0H3QR828N": {
   "ship": true,
   "status": "",
-  "by": "CL",
-  "ts": "2026-11-10 13:25",
+  "by": "Rico",
+  "ts": "2026-11-16 18:13",
   "reqAt": "2026-11-10 09:37",
   "reqBy": "Paris Z",
   "statusAt": "2026-11-10 09:37",
@@ -287,7 +287,11 @@
   "pcAt": "2026-11-10 13:25",
   "pcBy": "CL",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "supComment": "11/18 做",
+  "sup": "11/18 做",
+  "supAt": "2026-11-16 18:13",
+  "supBy": "Rico"
  },
  "B0G2MXVWM8": {
   "ship": true,
