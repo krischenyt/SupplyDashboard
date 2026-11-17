@@ -3995,7 +3995,7 @@
   "ship": true,
   "done": true,
   "by": "Rico",
-  "ts": "2026-11-16 18:17",
+  "ts": "2026-11-16 18:22",
   "reqAt": "2026-11-11 23:12",
   "reqBy": "Jackson",
   "doneAt": "2026-11-16 18:17",
@@ -4008,7 +4008,11 @@
   "mktBy": "Jackson",
   "supStatus": "已發貨",
   "supStatusAt": "2026-11-16 18:17",
-  "supStatusBy": "Rico"
+  "supStatusBy": "Rico",
+  "supComment": "11/22送 月底可售",
+  "sup": "11/22送 月底可售",
+  "supAt": "2026-11-16 18:22",
+  "supBy": "Rico"
  },
  "B0FWJCNC61": {
   "pc": true,
