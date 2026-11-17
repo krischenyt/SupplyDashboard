@@ -4228,11 +4228,37 @@
   "ship": true,
   "done": false,
   "by": "Olivia",
-  "ts": "2026-11-17 14:00",
+  "ts": "2026-11-17 14:01",
   "reqAt": "2026-11-17 14:00",
   "reqBy": "Olivia",
   "shipEventId": "ship-B0GFHCCTH6-mwl8kqil-52c9n",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "threads": [
+   {
+    "id": "tmwl8m908gsy4yq",
+    "title": "降价到29.99后销量上涨到45/D，需要发货备货。",
+    "created": "2026-11-17 14:01",
+    "by": "Olivia",
+    "closed": false,
+    "messages": []
+   },
+   {
+    "id": "legacy-B0GFHCCTH6",
+    "title": "歷史備註（舊版匯入）",
+    "created": "2026-11-17 14:00",
+    "by": "Olivia",
+    "closed": true,
+    "messages": [
+     {
+      "id": "tmwl8m908s9nzdb",
+      "role": "Marketing",
+      "by": "Olivia",
+      "at": "2026-11-17 14:00",
+      "text": "ship-B0GFHCCTH6-mwl8kqil-52c9n"
+     }
+    ]
+   }
+  ]
  }
 }
