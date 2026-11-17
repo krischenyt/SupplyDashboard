@@ -3979,19 +3979,22 @@
  },
  "B0FKD3M8QQ": {
   "ship": true,
-  "done": false,
-  "by": "Jackson",
-  "ts": "2026-11-11 23:12",
+  "done": true,
+  "by": "Rico",
+  "ts": "2026-11-16 18:17",
   "reqAt": "2026-11-11 23:12",
   "reqBy": "Jackson",
-  "doneAt": "",
-  "doneBy": "",
+  "doneAt": "2026-11-16 18:17",
+  "doneBy": "Rico",
   "why": "JC:还需要3000，能跑的这个品",
   "mkt": "JC:还需要3000，能跑的这个品",
   "mktComment": "JC:还需要3000，能跑的这个品",
   "comment": "JC:还需要3000，能跑的这个品",
   "mktAt": "2026-11-11 23:12",
-  "mktBy": "Jackson"
+  "mktBy": "Jackson",
+  "supStatus": "已發貨",
+  "supStatusAt": "2026-11-16 18:17",
+  "supStatusBy": "Rico"
  },
  "B0FWJCNC61": {
   "pc": true,
