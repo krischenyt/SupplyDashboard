@@ -2137,7 +2137,11 @@
   "mktBy": "Jackson",
   "supStatus": "已發貨",
   "supStatusAt": "2026-11-16 18:20",
-  "supStatusBy": "Rico"
+  "supStatusBy": "Rico",
+  "supComment": "已经安排 ",
+  "sup": "已经安排 ",
+  "supAt": "2026-11-16 18:20",
+  "supBy": "Rico"
  },
  "B09BDNFL58": {
   "pc": true,
