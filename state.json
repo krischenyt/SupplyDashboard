@@ -2111,13 +2111,13 @@
   "pc": true,
   "oldPrice": 15.34,
   "newPrice": 16.99,
-  "done": false,
-  "by": "Jackson",
-  "ts": "2026-11-11 22:39",
+  "done": true,
+  "by": "Rico",
+  "ts": "2026-11-16 18:20",
   "pcAt": "2026-11-10 14:27",
   "pcBy": "Zimo",
-  "doneAt": "",
-  "doneBy": "",
+  "doneAt": "2026-11-16 18:20",
+  "doneBy": "Rico",
   "priceHistory": [
    {
     "from": 15.34,
@@ -2134,7 +2134,10 @@
   "mktComment": "JC：再给我2000差不多 跑T12 9.9",
   "comment": "JC：再给我2000差不多 跑T12 9.9",
   "mktAt": "2026-11-11 22:39",
-  "mktBy": "Jackson"
+  "mktBy": "Jackson",
+  "supStatus": "已發貨",
+  "supStatusAt": "2026-11-16 18:20",
+  "supStatusBy": "Rico"
  },
  "B09BDNFL58": {
   "pc": true,
