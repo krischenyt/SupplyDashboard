@@ -4204,13 +4204,21 @@
  "B0DS6L19ZT": {
   "pc": true,
   "oldPrice": 19.98,
-  "newPrice": 19.98,
+  "newPrice": 16.99,
   "done": false,
   "by": "Zimo",
   "ts": "2026-11-17 09:23",
   "pcAt": "2026-11-17 09:23",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 19.98,
+    "to": 16.99,
+    "at": "2026-11-17 09:23",
+    "by": "Zimo"
+   }
+  ]
  }
 }
