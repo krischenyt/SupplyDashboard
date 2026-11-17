@@ -4140,7 +4140,7 @@
   "ship": true,
   "done": false,
   "by": "Rico",
-  "ts": "2026-11-16 17:06",
+  "ts": "2026-11-16 18:03",
   "reqAt": "2026-11-16 14:49",
   "reqBy": "Paris Z",
   "doneAt": "",
@@ -4151,9 +4151,9 @@
   "comment": "和4lb的合并之后，销量80+/day",
   "mktAt": "2026-11-16 14:49",
   "mktBy": "Paris Z",
-  "supComment": "whole milk powder",
-  "sup": "whole milk powder",
-  "supAt": "2026-11-16 17:06",
+  "supComment": "",
+  "sup": "",
+  "supAt": "2026-11-16 18:03",
   "supBy": "Rico"
  }
 }
