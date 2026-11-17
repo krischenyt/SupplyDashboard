@@ -414,8 +414,8 @@
   "oldPrice": 16,
   "newPrice": 9.99,
   "done": false,
-  "by": "Zimo",
-  "ts": "2026-11-16 10:59",
+  "by": "Rico",
+  "ts": "2026-11-16 16:41",
   "pcAt": "2026-11-16 10:58",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -442,7 +442,11 @@
   "mktBy": "Zimo",
   "ship": true,
   "reqAt": "2026-11-16 10:59",
-  "reqBy": "Zimo"
+  "reqBy": "Zimo",
+  "supComment": "安排过600，AMZ total ",
+  "sup": "安排过600，AMZ total ",
+  "supAt": "2026-11-16 16:41",
+  "supBy": "Rico"
  },
  "B0FWGTM3ND": {
   "pc": true,
