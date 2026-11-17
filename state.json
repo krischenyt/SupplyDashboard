@@ -4301,13 +4301,21 @@
  "B0G66W6MH2": {
   "pc": true,
   "oldPrice": 16.08,
-  "newPrice": 16.08,
+  "newPrice": 13.99,
   "done": false,
   "by": "Zimo",
-  "ts": "2026-11-17 14:12",
-  "pcAt": "2026-11-17 14:12",
+  "ts": "2026-11-17 14:13",
+  "pcAt": "2026-11-17 14:13",
   "pcBy": "Zimo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "priceHistory": [
+   {
+    "from": 16.08,
+    "to": 13.99,
+    "at": "2026-11-17 14:13",
+    "by": "Zimo"
+   }
+  ]
  }
 }
