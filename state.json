@@ -4200,5 +4200,17 @@
   "sup": "",
   "supAt": "2026-11-16 18:03",
   "supBy": "Rico"
+ },
+ "B0DS6L19ZT": {
+  "pc": true,
+  "oldPrice": 19.98,
+  "newPrice": 19.98,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-17 09:23",
+  "pcAt": "2026-11-17 09:23",
+  "pcBy": "Zimo",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
