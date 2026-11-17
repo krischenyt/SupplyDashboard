@@ -4139,8 +4139,8 @@
  "B0GSS9Z71F": {
   "ship": true,
   "done": false,
-  "by": "Paris Z",
-  "ts": "2026-11-16 14:49",
+  "by": "Rico",
+  "ts": "2026-11-16 17:06",
   "reqAt": "2026-11-16 14:49",
   "reqBy": "Paris Z",
   "doneAt": "",
@@ -4150,6 +4150,10 @@
   "mktComment": "和4lb的合并之后，销量80+/day",
   "comment": "和4lb的合并之后，销量80+/day",
   "mktAt": "2026-11-16 14:49",
-  "mktBy": "Paris Z"
+  "mktBy": "Paris Z",
+  "supComment": "whole milk powder",
+  "sup": "whole milk powder",
+  "supAt": "2026-11-16 17:06",
+  "supBy": "Rico"
  }
 }
