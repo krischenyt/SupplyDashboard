@@ -2712,13 +2712,13 @@
   "pc": true,
   "oldPrice": 16.61,
   "newPrice": 13.99,
-  "done": false,
-  "by": "Zimo",
-  "ts": "2026-11-16 13:54",
+  "done": true,
+  "by": "Rico",
+  "ts": "2026-11-16 18:19",
   "pcAt": "2026-11-16 13:54",
   "pcBy": "Zimo",
-  "doneAt": "",
-  "doneBy": "",
+  "doneAt": "2026-11-16 18:19",
+  "doneBy": "Rico",
   "priceHistory": [
    {
     "from": 16.99,
@@ -2741,7 +2741,10 @@
   "mktComment": "JC:2000的货发过来跑一下",
   "comment": "JC:2000的货发过来跑一下",
   "mktAt": "2026-11-11 23:57",
-  "mktBy": "Jackson"
+  "mktBy": "Jackson",
+  "supStatus": "已發貨",
+  "supStatusAt": "2026-11-16 18:19",
+  "supStatusBy": "Rico"
  },
  "B0G2N4TH7Z": {
   "pc": true,
