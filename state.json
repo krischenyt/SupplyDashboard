@@ -291,7 +291,10 @@
   "supComment": "11/18 安排做3200",
   "sup": "11/18 安排做3200",
   "supAt": "2026-11-16 18:13",
-  "supBy": "Rico"
+  "supBy": "Rico",
+  "supStatus": "待生產",
+  "supStatusAt": "2026-11-16 18:13",
+  "supStatusBy": "Rico"
  },
  "B0G2MXVWM8": {
   "ship": true,
