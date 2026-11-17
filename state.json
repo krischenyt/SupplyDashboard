@@ -4265,11 +4265,37 @@
   "ship": true,
   "done": false,
   "by": "Olivia",
-  "ts": "2026-11-17 14:07",
+  "ts": "2026-11-17 14:09",
   "reqAt": "2026-11-17 14:07",
   "reqBy": "Olivia",
   "shipEventId": "ship-B0G2N5K1F7-mwl8tixi-mwwol",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "threads": [
+   {
+    "id": "tmwl8vmf7p4m9pe",
+    "title": "11/17：该产品9.9卖20+，做deal8.99卖30+。需要发货和备货。",
+    "created": "2026-11-17 14:09",
+    "by": "Olivia",
+    "closed": false,
+    "messages": []
+   },
+   {
+    "id": "legacy-B0G2N5K1F7",
+    "title": "歷史備註（舊版匯入）",
+    "created": "2026-11-17 14:07",
+    "by": "Olivia",
+    "closed": true,
+    "messages": [
+     {
+      "id": "tmwl8vmf7qn1e79",
+      "role": "Marketing",
+      "by": "Olivia",
+      "at": "2026-11-17 14:07",
+      "text": "ship-B0G2N5K1F7-mwl8tixi-mwwol"
+     }
+    ]
+   }
+  ]
  }
 }
