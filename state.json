@@ -4394,17 +4394,10 @@
   "mktBy": "Zimo"
  },
  "B0GFGQ7YT5": {
-  "pc": true,
+  "pc": false,
   "oldPrice": 12.68,
-  "newPrice": 12.67,
-  "priceHistory": [
-   {
-    "from": 12.68,
-    "to": 12.67,
-    "at": "2026-11-19 09:21",
-    "by": "CL"
-   }
-  ],
+  "newPrice": 0,
+  "priceHistory": [],
   "done": false,
   "by": "CL",
   "ts": "2026-11-19 09:21",
