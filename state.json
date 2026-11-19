@@ -4491,5 +4491,11 @@
     ]
    }
   ]
+ },
+ "__notificationReads": {
+  "kc": {
+   "thread:B0GSS9Z71F:tmwntpz9ruohdrg": true,
+   "msg:B0GSS9Z71F:tmwntpz9ruohdrg:tmwntqhuj8jwt9s": true
+  }
  }
 }
