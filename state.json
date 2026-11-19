@@ -4392,5 +4392,25 @@
   "comment": "降价跑评分卖 40+ 可以多备货",
   "mktAt": "2026-11-17 14:13",
   "mktBy": "Zimo"
+ },
+ "B0GFGQ7YT5": {
+  "pc": true,
+  "oldPrice": 12.68,
+  "newPrice": 12.67,
+  "priceHistory": [
+   {
+    "from": 12.68,
+    "to": 12.67,
+    "at": "2026-11-19 09:21",
+    "by": "CL"
+   }
+  ],
+  "done": false,
+  "by": "CL",
+  "ts": "2026-11-19 09:21",
+  "pcAt": "2026-11-19 09:21",
+  "pcBy": "CL",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
