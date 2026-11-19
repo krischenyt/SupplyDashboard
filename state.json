@@ -3017,7 +3017,7 @@
   "newPrice": 16.99,
   "done": false,
   "by": "Zimo",
-  "ts": "2026-11-17 10:25",
+  "ts": "2026-11-19 11:41",
   "pcAt": "2026-11-10 14:38",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -3032,7 +3032,17 @@
   ],
   "ship": true,
   "reqAt": "2026-11-17 10:25",
-  "reqBy": "Zimo"
+  "reqBy": "Zimo",
+  "threads": [
+   {
+    "id": "tmwnyhf1eii92zw",
+    "title": "2026/11/19 備貨 50/day",
+    "created": "2026-11-19 11:41",
+    "by": "Zimo",
+    "closed": false,
+    "messages": []
+   }
+  ]
  },
  "B0GN4NXLQS": {
   "pc": true,
