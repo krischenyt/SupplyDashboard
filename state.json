@@ -3159,7 +3159,7 @@
   "newPrice": 13.99,
   "done": false,
   "by": "Olivia",
-  "ts": "2026-11-19 15:40",
+  "ts": "2026-11-19 15:41",
   "pcAt": "2026-11-10 14:39",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -3175,7 +3175,33 @@
   "ship": true,
   "reqAt": "2026-11-19 15:40",
   "reqBy": "Olivia",
-  "shipEventId": "ship-B0GT1YJ8RD-mwo70pcv-w76gz"
+  "shipEventId": "ship-B0GT1YJ8RD-mwo70pcv-w76gz",
+  "threads": [
+   {
+    "id": "tmwo71pnm63tpul",
+    "title": "11.19参加black Friday deal（预计跑11/19-30），可以从MC发货。",
+    "created": "2026-11-19 15:41",
+    "by": "Olivia",
+    "closed": false,
+    "messages": []
+   },
+   {
+    "id": "legacy-B0GT1YJ8RD",
+    "title": "歷史備註（舊版匯入）",
+    "created": "2026-11-19 15:40",
+    "by": "Olivia",
+    "closed": true,
+    "messages": [
+     {
+      "id": "tmwo71pnmu8jdy3",
+      "role": "Marketing",
+      "by": "Olivia",
+      "at": "2026-11-19 15:40",
+      "text": "ship-B0GT1YJ8RD-mwo70pcv-w76gz"
+     }
+    ]
+   }
+  ]
  },
  "B0G884RNS8": {
   "pc": true,
