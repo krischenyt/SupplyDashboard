@@ -3159,7 +3159,7 @@
   "newPrice": 13.99,
   "done": false,
   "by": "Olivia",
-  "ts": "2026-11-19 15:41",
+  "ts": "2026-11-19 15:42",
   "pcAt": "2026-11-10 14:39",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -3183,7 +3183,15 @@
     "created": "2026-11-19 15:41",
     "by": "Olivia",
     "closed": false,
-    "messages": []
+    "messages": [
+     {
+      "id": "tmwo72ve9z92wzz",
+      "role": "Marketing",
+      "by": "Olivia",
+      "at": "2026-11-19 15:42",
+      "text": "deal价格11.19"
+     }
+    ]
    },
    {
     "id": "legacy-B0GT1YJ8RD",
