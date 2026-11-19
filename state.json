@@ -4256,8 +4256,8 @@
  "B0GSS9Z71F": {
   "ship": true,
   "done": false,
-  "by": "Rico",
-  "ts": "2026-11-16 18:03",
+  "by": "Paris Z",
+  "ts": "2026-11-19 09:28",
   "reqAt": "2026-11-16 14:49",
   "reqBy": "Paris Z",
   "doneAt": "",
@@ -4271,7 +4271,33 @@
   "supComment": "",
   "sup": "",
   "supAt": "2026-11-16 18:03",
-  "supBy": "Rico"
+  "supBy": "Rico",
+  "threads": [
+   {
+    "id": "tmwntpz9ruohdrg",
+    "title": "要涨价到26.99",
+    "created": "2026-11-19 09:28",
+    "by": "Paris Z",
+    "closed": false,
+    "messages": []
+   },
+   {
+    "id": "legacy-B0GSS9Z71F",
+    "title": "歷史備註（舊版匯入）",
+    "created": "2026-11-16 14:49",
+    "by": "Paris Z",
+    "closed": true,
+    "messages": [
+     {
+      "id": "tmwntpz9rkfx6sh",
+      "role": "Marketing",
+      "by": "Paris Z",
+      "at": "2026-11-16 14:49",
+      "text": "和4lb的合并之后，销量80+/day"
+     }
+    ]
+   }
+  ]
  },
  "B0DS6L19ZT": {
   "pc": true,
