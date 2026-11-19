@@ -3520,7 +3520,7 @@
  "B0F1C8CM23": {
   "pc": true,
   "oldPrice": 24.82,
-  "newPrice": 19.98,
+  "newPrice": 19.99,
   "done": false,
   "by": "CL",
   "ts": "2026-11-19 09:09",
@@ -3529,6 +3529,12 @@
   "doneAt": "",
   "doneBy": "",
   "priceHistory": [
+   {
+    "from": 19.98,
+    "to": 19.99,
+    "at": "2026-11-19 09:09",
+    "by": "CL"
+   },
    {
     "from": 19.99,
     "to": 19.98,
