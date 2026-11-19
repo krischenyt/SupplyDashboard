@@ -4417,11 +4417,37 @@
   "ship": true,
   "done": false,
   "by": "Olivia",
-  "ts": "2026-11-19 09:22",
+  "ts": "2026-11-19 09:25",
   "reqAt": "2026-11-19 09:22",
   "reqBy": "Olivia",
   "shipEventId": "ship-B0F8FX9SXY-mwntivac-ph5mo",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "threads": [
+   {
+    "id": "tmwntm6xco824q3",
+    "title": "计划跑11/19-30号的black Friday deal，预计销量160-200D，需要发货。",
+    "created": "2026-11-19 09:25",
+    "by": "Olivia",
+    "closed": false,
+    "messages": []
+   },
+   {
+    "id": "legacy-B0F8FX9SXY",
+    "title": "歷史備註（舊版匯入）",
+    "created": "2026-11-19 09:22",
+    "by": "Olivia",
+    "closed": true,
+    "messages": [
+     {
+      "id": "tmwntm6xcu09vfx",
+      "role": "Marketing",
+      "by": "Olivia",
+      "at": "2026-11-19 09:22",
+      "text": "ship-B0F8FX9SXY-mwntivac-ph5mo"
+     }
+    ]
+   }
+  ]
  }
 }
