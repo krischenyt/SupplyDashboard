@@ -4279,7 +4279,15 @@
     "created": "2026-11-19 09:28",
     "by": "Paris Z",
     "closed": false,
-    "messages": []
+    "messages": [
+     {
+      "id": "tmwntqhuj8jwt9s",
+      "role": "Marketing",
+      "by": "Paris Z",
+      "at": "2026-11-19 09:28",
+      "text": "要涨价到26.99"
+     }
+    ]
    },
    {
     "id": "legacy-B0GSS9Z71F",
