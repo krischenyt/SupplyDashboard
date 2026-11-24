@@ -2923,7 +2923,7 @@
   "newPrice": 19.99,
   "done": false,
   "by": "Paris Z",
-  "ts": "2026-11-24 13:55",
+  "ts": "2026-11-24 13:56",
   "pcAt": "2026-11-10 14:36",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -2936,7 +2936,7 @@
     "by": "Zimo"
    }
   ],
-  "ship": true,
+  "ship": false,
   "reqAt": "2026-11-24 13:55",
   "reqBy": "Paris Z",
   "shipEventId": "ship-B0GJV1JW2M-mwv8hkiq-1jzoc",
