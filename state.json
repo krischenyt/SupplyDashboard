@@ -1172,7 +1172,7 @@
   "newPrice": 13.99,
   "done": false,
   "by": "Paris Z",
-  "ts": "2026-11-24 14:26",
+  "ts": "2026-11-24 14:27",
   "pcAt": "2026-11-10 14:07",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -1196,7 +1196,15 @@
     "created": "2026-11-24 14:26",
     "by": "Paris Z",
     "closed": false,
-    "messages": []
+    "messages": [
+     {
+      "id": "tmwv9mbl070gq4g",
+      "role": "Marketing",
+      "by": "Paris Z",
+      "at": "2026-11-24 14:27",
+      "text": "BFCM $9.9跑deal，100+/day，需要催生产"
+     }
+    ]
    },
    {
     "id": "legacy-B0GZ15FCTW",
