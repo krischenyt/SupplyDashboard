@@ -1188,7 +1188,33 @@
   "ship": true,
   "reqAt": "2026-11-24 14:26",
   "reqBy": "Paris Z",
-  "shipEventId": "ship-B0GZ15FCTW-mwv9krk2-tv45l"
+  "shipEventId": "ship-B0GZ15FCTW-mwv9krk2-tv45l",
+  "threads": [
+   {
+    "id": "tmwv9kudiseao4m",
+    "title": "2026/11/24 備貨／發貨",
+    "created": "2026-11-24 14:26",
+    "by": "Paris Z",
+    "closed": false,
+    "messages": []
+   },
+   {
+    "id": "legacy-B0GZ15FCTW",
+    "title": "歷史備註（舊版匯入）",
+    "created": "2026-11-24 14:26",
+    "by": "Paris Z",
+    "closed": true,
+    "messages": [
+     {
+      "id": "tmwv9kudijj8tby",
+      "role": "Marketing",
+      "by": "Paris Z",
+      "at": "2026-11-24 14:26",
+      "text": "ship-B0GZ15FCTW-mwv9krk2-tv45l"
+     }
+    ]
+   }
+  ]
  },
  "B0GDS1CQYR": {
   "pc": true,
