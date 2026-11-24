@@ -1196,7 +1196,15 @@
     "created": "2026-11-24 14:28",
     "by": "Paris Z",
     "closed": false,
-    "messages": []
+    "messages": [
+     {
+      "id": "tmwv9nhujbzzfay",
+      "role": "Marketing",
+      "by": "Paris Z",
+      "at": "2026-11-24 14:28",
+      "text": "BFCM $9.9跑deal，100+/day，需要补发货，避免之后断货"
+     }
+    ]
    },
    {
     "id": "tmwv9kudiseao4m",
