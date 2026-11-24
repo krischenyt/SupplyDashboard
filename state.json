@@ -4593,6 +4593,32 @@
   "reqBy": "Paris Z",
   "shipEventId": "ship-B0F7NQ81NX-mwv2wj5p-gnv50",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "threads": [
+   {
+    "id": "tmwv2wzna59s7f7",
+    "title": "2026/11/24 備貨／發貨",
+    "created": "2026-11-24 11:19",
+    "by": "Paris Z",
+    "closed": false,
+    "messages": []
+   },
+   {
+    "id": "legacy-B0F7NQ81NX",
+    "title": "歷史備註（舊版匯入）",
+    "created": "2026-11-24 11:19",
+    "by": "Paris Z",
+    "closed": true,
+    "messages": [
+     {
+      "id": "tmwv2wznal3rjkn",
+      "role": "Marketing",
+      "by": "Paris Z",
+      "at": "2026-11-24 11:19",
+      "text": "ship-B0F7NQ81NX-mwv2wj5p-gnv50"
+     }
+    ]
+   }
+  ]
  }
 }
