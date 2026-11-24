@@ -4591,7 +4591,7 @@
   "ship": true,
   "done": false,
   "by": "Paris Z",
-  "ts": "2026-11-24 11:19",
+  "ts": "2026-11-24 12:25",
   "reqAt": "2026-11-24 11:19",
   "reqBy": "Paris Z",
   "shipEventId": "ship-B0F7NQ81NX-mwv2wj5p-gnv50",
@@ -4603,7 +4603,7 @@
     "title": "2026/11/24 備貨／發貨",
     "created": "2026-11-24 11:19",
     "by": "Paris Z",
-    "closed": false,
+    "closed": true,
     "messages": []
    },
    {
