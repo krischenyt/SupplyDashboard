@@ -4749,11 +4749,37 @@
   "ship": true,
   "done": false,
   "by": "Olivia",
-  "ts": "2026-11-24 14:41",
+  "ts": "2026-11-24 14:42",
   "reqAt": "2026-11-24 14:41",
   "reqBy": "Olivia",
   "shipEventId": "ship-B0G1CWBDXB-mwva4qww-atsbh",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "threads": [
+   {
+    "id": "tmwva54gva4nppj",
+    "title": "原价还能卖四十多天，需要加速生产",
+    "created": "2026-11-24 14:42",
+    "by": "Olivia",
+    "closed": false,
+    "messages": []
+   },
+   {
+    "id": "legacy-B0G1CWBDXB",
+    "title": "歷史備註（舊版匯入）",
+    "created": "2026-11-24 14:41",
+    "by": "Olivia",
+    "closed": true,
+    "messages": [
+     {
+      "id": "tmwva54gvnv0q6e",
+      "role": "Marketing",
+      "by": "Olivia",
+      "at": "2026-11-24 14:41",
+      "text": "ship-B0G1CWBDXB-mwva4qww-atsbh"
+     }
+    ]
+   }
+  ]
  }
 }
