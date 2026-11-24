@@ -4553,5 +4553,16 @@
    "thread:B0GSS9Z71F:tmwntpz9ruohdrg": true,
    "msg:B0GSS9Z71F:tmwntpz9ruohdrg:tmwntqhuj8jwt9s": true
   }
+ },
+ "B0G62RHZJS": {
+  "ship": true,
+  "done": false,
+  "by": "Zimo",
+  "ts": "2026-11-24 10:45",
+  "reqAt": "2026-11-24 10:45",
+  "reqBy": "Zimo",
+  "shipEventId": "ship-B0G62RHZJS-mwv1odzp-drl7w",
+  "doneAt": "",
+  "doneBy": ""
  }
 }
