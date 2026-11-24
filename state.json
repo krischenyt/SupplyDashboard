@@ -4628,11 +4628,37 @@
   "ship": true,
   "done": false,
   "by": "Olivia",
-  "ts": "2026-11-24 12:21",
+  "ts": "2026-11-24 12:22",
   "reqAt": "2026-11-24 12:21",
   "reqBy": "Olivia",
   "shipEventId": "ship-B0GMYNFBM7-mwv54roi-y18zy",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "threads": [
+   {
+    "id": "tmwv55n1vysawlh",
+    "title": "近期 原价23.99也能卖150/D，需要备货发货",
+    "created": "2026-11-24 12:22",
+    "by": "Olivia",
+    "closed": false,
+    "messages": []
+   },
+   {
+    "id": "legacy-B0GMYNFBM7",
+    "title": "歷史備註（舊版匯入）",
+    "created": "2026-11-24 12:21",
+    "by": "Olivia",
+    "closed": true,
+    "messages": [
+     {
+      "id": "tmwv55n1v9ftt25",
+      "role": "Marketing",
+      "by": "Olivia",
+      "at": "2026-11-24 12:21",
+      "text": "ship-B0GMYNFBM7-mwv54roi-y18zy"
+     }
+    ]
+   }
+  ]
  }
 }
