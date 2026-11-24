@@ -4563,6 +4563,19 @@
   "reqBy": "Zimo",
   "shipEventId": "ship-B0G62RHZJS-mwv1odzp-drl7w",
   "doneAt": "",
-  "doneBy": ""
+  "doneBy": "",
+  "pc": true,
+  "oldPrice": 14.83,
+  "newPrice": 13.99,
+  "priceHistory": [
+   {
+    "from": 14.83,
+    "to": 13.99,
+    "at": "2026-11-24 10:45",
+    "by": "Zimo"
+   }
+  ],
+  "pcAt": "2026-11-24 10:45",
+  "pcBy": "Zimo"
  }
 }
