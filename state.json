@@ -4007,8 +4007,8 @@
   "oldPrice": 29.96,
   "newPrice": 24.99,
   "done": false,
-  "by": "Zimo",
-  "ts": "2026-11-10 14:50",
+  "by": "Olivia",
+  "ts": "2026-11-24 17:33",
   "pcAt": "2026-11-10 14:50",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -4020,7 +4020,11 @@
     "at": "2026-11-10 14:50",
     "by": "Zimo"
    }
-  ]
+  ],
+  "ship": true,
+  "reqAt": "2026-11-24 17:33",
+  "reqBy": "Olivia",
+  "shipEventId": "ship-B0HJK8TWHN-mwvg97na-oouwr"
  },
  "B0HJJDGK96": {
   "pc": true,
