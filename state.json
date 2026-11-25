@@ -3167,8 +3167,8 @@
   "oldPrice": 17.03,
   "newPrice": 13.99,
   "done": false,
-  "by": "Zimo",
-  "ts": "2026-11-17 14:44",
+  "by": "Rico",
+  "ts": "2026-11-24 17:41",
   "pcAt": "2026-11-10 14:38",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -3189,7 +3189,10 @@
   "mktComment": "降价13.99销售 30/day 需要多发货",
   "comment": "降价13.99销售 30/day 需要多发货",
   "mktAt": "2026-11-17 14:44",
-  "mktBy": "Zimo"
+  "mktBy": "Zimo",
+  "supStatus": "其他原因",
+  "supStatusAt": "2026-11-24 17:41",
+  "supStatusBy": "Rico"
  },
  "B0G87SB8FT": {
   "pc": true,
