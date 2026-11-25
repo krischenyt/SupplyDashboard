@@ -4024,7 +4024,33 @@
   "ship": true,
   "reqAt": "2026-11-24 17:33",
   "reqBy": "Olivia",
-  "shipEventId": "ship-B0HJK8TWHN-mwvg97na-oouwr"
+  "shipEventId": "ship-B0HJK8TWHN-mwvg97na-oouwr",
+  "threads": [
+   {
+    "id": "tmwvg9teweye9oe",
+    "title": "做deal比较能卖，能卖到七八十，不做deal卖十几个。货不多，建议备货。",
+    "created": "2026-11-24 17:33",
+    "by": "Olivia",
+    "closed": false,
+    "messages": []
+   },
+   {
+    "id": "legacy-B0HJK8TWHN",
+    "title": "歷史備註（舊版匯入）",
+    "created": "2026-11-24 17:33",
+    "by": "Olivia",
+    "closed": true,
+    "messages": [
+     {
+      "id": "tmwvg9tew7e5hy5",
+      "role": "Marketing",
+      "by": "Olivia",
+      "at": "2026-11-24 17:33",
+      "text": "ship-B0HJK8TWHN-mwvg97na-oouwr"
+     }
+    ]
+   }
+  ]
  },
  "B0HJJDGK96": {
   "pc": true,
