@@ -4435,8 +4435,8 @@
  "B0GSS9Z71F": {
   "ship": true,
   "done": false,
-  "by": "Paris Z",
-  "ts": "2026-11-19 09:28",
+  "by": "Rico",
+  "ts": "2026-11-24 17:31",
   "reqAt": "2026-11-16 14:49",
   "reqBy": "Paris Z",
   "doneAt": "",
@@ -4484,7 +4484,10 @@
      }
     ]
    }
-  ]
+  ],
+  "supStatus": "待生產",
+  "supStatusAt": "2026-11-24 17:31",
+  "supStatusBy": "Rico"
  },
  "B0DS6L19ZT": {
   "pc": true,
