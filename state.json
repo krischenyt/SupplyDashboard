@@ -3105,13 +3105,13 @@
   "pc": true,
   "oldPrice": 20.12,
   "newPrice": 16.99,
-  "done": false,
+  "done": true,
   "by": "Rico",
-  "ts": "2026-11-24 17:48",
+  "ts": "2026-11-24 17:49",
   "pcAt": "2026-11-10 14:38",
   "pcBy": "Zimo",
-  "doneAt": "",
-  "doneBy": "",
+  "doneAt": "2026-11-24 17:49",
+  "doneBy": "Rico",
   "priceHistory": [
    {
     "from": 20.12,
@@ -3147,7 +3147,10 @@
      }
     ]
    }
-  ]
+  ],
+  "supStatus": "已發貨",
+  "supStatusAt": "2026-11-24 17:49",
+  "supStatusBy": "Rico"
  },
  "B0GN4NXLQS": {
   "pc": true,
