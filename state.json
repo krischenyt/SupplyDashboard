@@ -3168,7 +3168,7 @@
   "newPrice": 13.99,
   "done": false,
   "by": "Rico",
-  "ts": "2026-11-24 17:45",
+  "ts": "2026-11-24 17:47",
   "pcAt": "2026-11-10 14:38",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -3200,7 +3200,15 @@
     "created": "2026-11-24 17:45",
     "by": "Rico",
     "closed": false,
-    "messages": []
+    "messages": [
+     {
+      "id": "tmwvgrwa90tjqvb",
+      "role": "Marketing",
+      "by": "Rico",
+      "at": "2026-11-24 17:47",
+      "text": "Adrian的回复是需要旧的产品售空后才能更改到UPC，我们才能发货，这样势必会造成断货。现在等kyle的消息在update"
+     }
+    ]
    },
    {
     "id": "legacy-B0GN4RPTHP",
