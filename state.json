@@ -3106,8 +3106,8 @@
   "oldPrice": 20.12,
   "newPrice": 16.99,
   "done": false,
-  "by": "Zimo",
-  "ts": "2026-11-19 11:41",
+  "by": "Rico",
+  "ts": "2026-11-24 17:48",
   "pcAt": "2026-11-10 14:38",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -3137,6 +3137,13 @@
       "by": "Zimo",
       "at": "2026-11-19 11:41",
       "text": "降价16.99销售 50/day 需要发货"
+     },
+     {
+      "id": "tmwvgtc2ybxqeji",
+      "role": "Marketing",
+      "by": "Rico",
+      "at": "2026-11-24 17:48",
+      "text": "12/3 送2370"
      }
     ]
    }
