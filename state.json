@@ -3168,7 +3168,7 @@
   "newPrice": 13.99,
   "done": false,
   "by": "Rico",
-  "ts": "2026-11-24 17:41",
+  "ts": "2026-11-24 17:45",
   "pcAt": "2026-11-10 14:38",
   "pcBy": "Zimo",
   "doneAt": "",
@@ -3192,7 +3192,33 @@
   "mktBy": "Zimo",
   "supStatus": "其他原因",
   "supStatusAt": "2026-11-24 17:41",
-  "supStatusBy": "Rico"
+  "supStatusBy": "Rico",
+  "threads": [
+   {
+    "id": "tmwvgo8wbn5tojk",
+    "title": "4.0的成品 11/25拿，但现在FBA后台没办法从FNSKU换到UPC，在等消息",
+    "created": "2026-11-24 17:45",
+    "by": "Rico",
+    "closed": false,
+    "messages": []
+   },
+   {
+    "id": "legacy-B0GN4RPTHP",
+    "title": "歷史備註（舊版匯入）",
+    "created": "2026-11-17 14:43",
+    "by": "Zimo",
+    "closed": true,
+    "messages": [
+     {
+      "id": "tmwvgo8wb4zjoby",
+      "role": "Marketing",
+      "by": "Zimo",
+      "at": "2026-11-17 14:44",
+      "text": "降价13.99销售 30/day 需要多发货"
+     }
+    ]
+   }
+  ]
  },
  "B0G87SB8FT": {
   "pc": true,
